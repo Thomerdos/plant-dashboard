@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T17:16:16",
+  "generated_at": "2026-10-06T17:45:24",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -4637,9 +4637,9 @@
     "previsions": [
       {
         "date": "2026-10-08",
-        "tmin": 12.3,
+        "tmin": 11.4,
         "tmax": 18.0,
-        "precip_mm": 40.03,
+        "precip_mm": 36.77,
         "vent_kmh": 50.0,
         "code": 81,
         "label": "averses",
@@ -4647,43 +4647,43 @@
       },
       {
         "date": "2026-10-09",
-        "tmin": 9.3,
-        "tmax": 16.2,
-        "precip_mm": 0.1,
-        "vent_kmh": 29.5,
-        "code": 61,
-        "label": "pluie faible",
-        "emoji": "🌧️"
-      },
-      {
-        "date": "2026-10-10",
-        "tmin": 11.2,
-        "tmax": 21.4,
-        "precip_mm": 0.6,
-        "vent_kmh": 14.0,
+        "tmin": 8.8,
+        "tmax": 16.7,
+        "precip_mm": 0.0,
+        "vent_kmh": 31.7,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
+        "date": "2026-10-10",
+        "tmin": 10.3,
+        "tmax": 20.1,
+        "precip_mm": 0.3,
+        "vent_kmh": 13.0,
+        "code": 61,
+        "label": "pluie faible",
+        "emoji": "🌧️"
+      },
+      {
         "date": "2026-10-11",
-        "tmin": 12.1,
-        "tmax": 20.2,
+        "tmin": 11.3,
+        "tmax": 19.0,
         "precip_mm": 0.0,
-        "vent_kmh": 24.5,
+        "vent_kmh": 21.2,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-12",
-        "tmin": 7.6,
-        "tmax": 19.7,
+        "tmin": 6.9,
+        "tmax": 19.5,
         "precip_mm": 0.0,
-        "vent_kmh": 19.8,
-        "code": 3,
-        "label": "couvert",
-        "emoji": "☁️"
+        "vent_kmh": 21.6,
+        "code": 45,
+        "label": "brouillard",
+        "emoji": "🌫️"
       }
     ],
     "erreur": null
