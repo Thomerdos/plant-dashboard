@@ -1,0 +1,7603 @@
+{
+  "generated_at": "2026-10-06T09:01:11",
+  "date": "2026-10-06",
+  "saison": "automne",
+  "site": {
+    "ville": "Saint-Égrève (38)",
+    "latitude": 45.233,
+    "longitude": 5.683
+  },
+  "plantes": [
+    {
+      "id": "thym-vulgaire",
+      "nom": "Thym vulgaire",
+      "espece": "Thymus vulgaris",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "thymus-vulgaris"
+    },
+    {
+      "id": "thym-citron",
+      "nom": "Thym citron",
+      "espece": "Thymus citriodorus",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "thymus-citriodorus"
+    },
+    {
+      "id": "origan-dore",
+      "nom": "Origan doré",
+      "espece": "Origanum vulgare 'Aureum'",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot large individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "origanum-vulgare"
+    },
+    {
+      "id": "ciboulette",
+      "nom": "Ciboulette",
+      "espece": "Allium schoenoprasum",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "allium-schoenoprasum"
+    },
+    {
+      "id": "menthe-marocaine",
+      "nom": "Menthe marocaine",
+      "espece": "Mentha spicata 'Nanah'",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "jardinière",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "mentha-spicata"
+    },
+    {
+      "id": "menthe-gingembre",
+      "nom": "Menthe gingembre",
+      "espece": "Mentha x gracilis",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot large individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "mentha-x-gracilis"
+    },
+    {
+      "id": "menthe-orange",
+      "nom": "Menthe orange",
+      "espece": "Mentha x piperita f. citrata",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "mentha-x-piperita"
+    },
+    {
+      "id": "sauge-ananas",
+      "nom": "Sauge ananas",
+      "espece": "Salvia elegans",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot individuel",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "salvia-elegans"
+    },
+    {
+      "id": "basilic-classique",
+      "nom": "Basilic classique",
+      "espece": "Ocimum basilicum",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "ocimum-basilicum"
+    },
+    {
+      "id": "basilic-violet",
+      "nom": "Basilic violet",
+      "espece": "Ocimum basilicum var. purpurascens",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "ocimum-basilicum"
+    },
+    {
+      "id": "basilic-thai",
+      "nom": "Basilic thaï",
+      "espece": "Ocimum basilicum var. thyrsiflora",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "ocimum-basilicum"
+    },
+    {
+      "id": "persil",
+      "nom": "Persil",
+      "espece": "Petroselinum crispum",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "petroselinum-crispum"
+    },
+    {
+      "id": "estragon",
+      "nom": "Estragon",
+      "espece": "Artemisia dracunculus (français ou russe ?)",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "artemisia-dracunculus"
+    },
+    {
+      "id": "combava",
+      "nom": "Combava",
+      "espece": "Citrus hystrix",
+      "categorie": "arbuste",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "citrus-hystrix"
+    },
+    {
+      "id": "erable-brown-sugar",
+      "nom": "Érable 'Brown Sugar'",
+      "espece": "Acer palmatum ? 'Brown Sugar'",
+      "categorie": "arbuste",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "acer-palmatum"
+    },
+    {
+      "id": "laurier-rouge",
+      "nom": "Laurier rouge",
+      "espece": "Nerium oleander (fleurs rouge/rose foncé)",
+      "categorie": "arbuste",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "nerium-oleander"
+    },
+    {
+      "id": "piment-cayenne",
+      "nom": "Piment de Cayenne",
+      "espece": "Capsicum annuum",
+      "categorie": "potager",
+      "emplacement": "terrasse",
+      "contenant": "pot 8.5 L",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "capsicum-annuum"
+    },
+    {
+      "id": "piment-pili-pili",
+      "nom": "Piment pili-pili",
+      "espece": "Capsicum frutescens",
+      "categorie": "potager",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "capsicum-frutescens"
+    },
+    {
+      "id": "piment-lila-luzi",
+      "nom": "Piment Lila Luzi",
+      "espece": "Capsicum annuum",
+      "categorie": "potager",
+      "emplacement": "terrasse",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "capsicum-annuum"
+    },
+    {
+      "id": "fraisier-inconnu",
+      "nom": "Fraisiers (variété ?)",
+      "espece": "Fragaria x ananassa",
+      "categorie": "fruitier",
+      "emplacement": "terrasse",
+      "contenant": "jardinière fraises",
+      "quantite": 3,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "fragaria-x-ananassa"
+    },
+    {
+      "id": "fraisier-gariguette",
+      "nom": "Fraisier Gariguette",
+      "espece": "Fragaria x ananassa",
+      "categorie": "fruitier",
+      "emplacement": "terrasse",
+      "contenant": "jardinière fraises",
+      "quantite": 2,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "fragaria-x-ananassa"
+    },
+    {
+      "id": "fraisier-mara-des-bois",
+      "nom": "Fraisier Mara des Bois",
+      "espece": "Fragaria x ananassa",
+      "categorie": "fruitier",
+      "emplacement": "terrasse",
+      "contenant": "jardinière fraises",
+      "quantite": 1,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "fragaria-x-ananassa"
+    },
+    {
+      "id": "petunias",
+      "nom": "Pétunias",
+      "espece": "Petunia x hybrida",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "jardinière",
+      "quantite": 3,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "petunia-x-hybrida"
+    },
+    {
+      "id": "clematite-blanche",
+      "nom": "Clématite blanche",
+      "espece": "Clematis 'Ninon'",
+      "categorie": "grimpante",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "clematis"
+    },
+    {
+      "id": "chevrefeuille-chine",
+      "nom": "Chèvrefeuille de Chine",
+      "espece": "Lonicera chinensis (a priori)",
+      "categorie": "grimpante",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "lonicera"
+    },
+    {
+      "id": "geranium-vivace",
+      "nom": "Géranium vivace",
+      "espece": "Geranium sp.",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "geranium"
+    },
+    {
+      "id": "hosta",
+      "nom": "Hosta",
+      "espece": "Hosta sp.",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "hosta"
+    },
+    {
+      "id": "hosta-2",
+      "nom": "Hosta (2e",
+      "espece": "Hosta sp.",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "hosta"
+    },
+    {
+      "id": "campanule-murs",
+      "nom": "Campanule des murs",
+      "espece": "Campanula portenschlagiana",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "campanula-portenschlagiana"
+    },
+    {
+      "id": "heuchere-foncee",
+      "nom": "Heuchère foncée (violette)",
+      "espece": "Heuchera sp.",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "heuchera"
+    },
+    {
+      "id": "heuchere-verte",
+      "nom": "Heuchère verte",
+      "espece": "Heuchera 'Carnival' (a priori)",
+      "categorie": "vivace",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "heuchera"
+    },
+    {
+      "id": "trefle-blanc",
+      "nom": "Trèfle blanc",
+      "espece": "Trifolium repens",
+      "categorie": "couvre-sol",
+      "emplacement": "terrasse",
+      "contenant": "bac 140 L (pied clématites)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "trifolium-repens"
+    },
+    {
+      "id": "boutures-basilic",
+      "nom": "Boutures de basilic (détail à venir)",
+      "espece": "Ocimum basilicum",
+      "categorie": "bouture",
+      "emplacement": "bureau-etagere-led",
+      "contenant": "?",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "ocimum-basilicum"
+    },
+    {
+      "id": "agave-bouture-1",
+      "nom": "Agave (bouture, petit)",
+      "espece": "Agave americana variegata",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "petit pot",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "agave-americana"
+    },
+    {
+      "id": "agave-bouture-2",
+      "nom": "Agave (bouture, petit)",
+      "espece": "Agave americana variegata",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "petit pot",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "agave-americana"
+    },
+    {
+      "id": "agave-bouture-3",
+      "nom": "Agave (bouture, plus gros)",
+      "espece": "Agave americana variegata",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot plus gros",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "agave-americana"
+    },
+    {
+      "id": "agave-bouture-4",
+      "nom": "Agave (bouture, plus gros)",
+      "espece": "Agave americana variegata",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot plus gros",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "agave-americana"
+    },
+    {
+      "id": "sempervivum-pourpre",
+      "nom": "Sempervivum pourpre",
+      "espece": "Sempervivum sp. (variété à affiner)",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec sedum)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sempervivum"
+    },
+    {
+      "id": "sedum-yellow-cushion",
+      "nom": "Sedum Yellow Cushion",
+      "espece": "Sedum 'Yellow Cushion'",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec sempervivum)",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sedum-yellow-cushion"
+    }
+  ],
+  "fiches": {
+    "thym-vulgaire": {
+      "espece": "Thymus vulgaris",
+      "noms": [
+        "Thym vulgaire"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -12.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 6,
+        "frequence_hiver_jours": 20,
+        "notes": "laisser sécher complètement entre 2 arrosages; l'excès d'eau tue le thym en pot"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "méditerranéen: pas d'engrais, une pincée d'amendement en surface au printemps suffit"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "rabattre légèrement après floraison",
+          "notes": "garder un port compact; ne pas tailler en fin d'automne"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les rameaux au besoin, de préférence avant la floraison (meilleur parfum)"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6
+          ],
+          "methode": "tige herbacée 8-10 cm sans fleur",
+          "notes": "planter en godet de terreau sableux, maintenir humide à l'ombre"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot jusqu'à -12 °C; isoler le pot si gel plus fort annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "connaissances générales jardinage méditerranéen; valeur en pot prudente (motte qui gèle plus vite qu'en pleine terre)",
+      "astuce": "laisser sécher complètement entre 2 arrosages; l'excès d'eau tue le thym en pot"
+    },
+    "thym-citron": {
+      "espece": "Thymus citriodorus",
+      "noms": [
+        "Thym citron"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -12.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 6,
+        "frequence_hiver_jours": 20,
+        "notes": "laisser sécher entre 2 arrosages; redouter l'excès d'eau"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "méditerranéen: pas d'engrais, une pincée d'amendement au printemps suffit"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "rabattre légèrement après floraison",
+          "notes": "garder un port compact; ne pas tailler en fin d'automne"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les rameaux au besoin; parfum citronné maximal avant floraison"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6
+          ],
+          "methode": "tige herbacée 8-10 cm sans fleur",
+          "notes": "planter en godet de terreau sableux, maintenir humide à l'ombre"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot jusqu'à -12 °C; isoler le pot si gel plus fort annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "soins identiques au thym commun; légèrement moins rustique, valeur en pot prudente",
+      "astuce": "laisser sécher entre 2 arrosages; redouter l'excès d'eau"
+    },
+    "origan-dore": {
+      "espece": "Origanum vulgare",
+      "noms": [
+        "Origan doré"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -12.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 5,
+        "frequence_hiver_jours": 15,
+        "notes": "laisser sécher entre 2 arrosages; l'origan doré apprécie la mi-ombre légère l'été (la pergola 50 % est idéale pour garder sa couleur)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "méditerranéen: pas d'engrais, une pincée d'amendement au printemps suffit"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "rabattre les tiges sèches à 5 cm du sol",
+          "notes": "nettoyage de printemps, la souche repart"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "notes": "récolter avant la floraison pour le parfum; sécher à l'ombre"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6
+          ],
+          "methode": "éclats de souche ou tiges herbacées 8 cm",
+          "notes": "reprise facile en godet de terreau sableux"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot jusqu'à -12 °C; isoler le pot si gel plus fort annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "cultivar 'Aureum' (origan doré): soins identiques à l'espèce type",
+      "astuce": "laisser sécher entre 2 arrosages; l'origan doré apprécie la mi-ombre légère l'été (la pergola 50 % est idéale pour garder sa couleur)"
+    },
+    "ciboulette": {
+      "espece": "Allium schoenoprasum",
+      "noms": [
+        "Ciboulette"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "ne pas laisser sécher complètement, mais éviter l'eau stagnante"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère, plante à couper: l'azote relance le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "couper les fleurs fanées et rabattre à 3 cm",
+          "notes": "relance la production de feuilles tendres"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "couper les brins à 2-3 cm du sol, la touffe repousse rapidement"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4,
+            9,
+            10
+          ],
+          "methode": "division de touffe",
+          "notes": "diviser tous les 3-4 ans pour rajeunir et multiplier"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (très rustique)",
+        "seuil_c": -12.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "connaissances générales; la ciboulette en pot repart chaque printemps",
+      "astuce": "ne pas laisser sécher complètement, mais éviter l'eau stagnante"
+    },
+    "menthe-marocaine": {
+      "espece": "Mentha spicata",
+      "noms": [
+        "Menthe marocaine"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère pour le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "rabattre à 5 cm après floraison",
+          "notes": "couper les épis floraux pour concentrer le parfum dans les feuilles"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les jeunes pousses au besoin, la plante repousse vite"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 1-2 semaines, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique; les feuilles disparaissent en hiver et la souche repart au printemps)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "cultivar 'Nanah' (menthe marocaine): soins identiques à la menthe verte; rempotage/division chaque année car la menthe épuise vite son pot",
+      "astuce": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+    },
+    "menthe-gingembre": {
+      "espece": "Mentha x gracilis",
+      "noms": [
+        "Menthe gingembre"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère pour le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "rabattre à 5 cm après floraison",
+          "notes": "couper les épis floraux pour concentrer le parfum dans les feuilles"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les jeunes pousses au besoin, la plante repousse vite"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 1-2 semaines, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique; la souche repart au printemps)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "menthe gingembre (Mentha x gracilis): soins identiques aux autres menthes; rempotage/division chaque année",
+      "astuce": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+    },
+    "menthe-orange": {
+      "espece": "Mentha x piperita",
+      "noms": [
+        "Menthe orange"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère pour le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "rabattre à 5 cm après floraison",
+          "notes": "couper les épis floraux pour concentrer le parfum dans les feuilles"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les jeunes pousses au besoin, la plante repousse vite"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 1-2 semaines, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique; la souche repart au printemps)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "f. citrata (menthe citronnée/orangée): soins identiques aux autres menthes; rempotage/division chaque année",
+      "astuce": "garder le terreau frais en permanence: la menthe boit beaucoup en pot"
+    },
+    "sauge-ananas": {
+      "espece": "Salvia elegans",
+      "noms": [
+        "Sauge ananas"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -3.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "terreau frais mais drainé; réduire l'arrosage en intérieur l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère pour le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "type": "rabattre à 15-20 cm au printemps",
+          "notes": "la plante repart de la souche (ou des boutures conservées l'hiver)"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "feuilles et fleurs parfum ananas: infusion, salade de fruits, dessert"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "methode": "tige herbacée 10 cm dans l'eau ou terreau",
+          "notes": "reprise rapide en été"
+        },
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "methode": "tige herbacée 10 cm dans l'eau",
+          "notes": "bouture d'automne = assurance-vie si la plante mère ne passe pas l'hiver (gélive)"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel (ou garder une bouture)",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "plante gélive: rentrer avant les 5 °C; les boutures d'automne sécurisent la culture",
+      "astuce": "terreau frais mais drainé; réduire l'arrosage en intérieur l'hiver"
+    },
+    "basilic-classique": {
+      "espece": "Ocimum basilicum",
+      "noms": [
+        "Basilic classique",
+        "Basilic violet",
+        "Basilic thaï",
+        "Boutures de basilic (détail à venir)"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose légère"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "pincer les extrémités au-dessus d'une paire de feuilles",
+          "notes": "ramifie la plante et retarde la montée à graines"
+        },
+        {
+          "mois": [
+            7,
+            8,
+            9
+          ],
+          "type": "couper les épis floraux dès leur apparition",
+          "notes": "les feuilles deviennent amères après floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les feuilles de haut en bas au besoin; congeler ou sécher le surplus"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 7-10 jours; idéal pour les boutures actuelles sous LED 18 h/j, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : récolter les feuilles (pesto), laisser mourir - boutures déjà faites (bureau LED 18 h/j)",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "basilic de terrasse = annuel en fin de saison (octobre); les boutures du bureau sous LED 18 h/j se maintiennent en intérieur l'hiver",
+      "astuce": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+    },
+    "basilic-violet": {
+      "espece": "Ocimum basilicum",
+      "noms": [
+        "Basilic classique",
+        "Basilic violet",
+        "Basilic thaï",
+        "Boutures de basilic (détail à venir)"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose légère"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "pincer les extrémités au-dessus d'une paire de feuilles",
+          "notes": "ramifie la plante et retarde la montée à graines"
+        },
+        {
+          "mois": [
+            7,
+            8,
+            9
+          ],
+          "type": "couper les épis floraux dès leur apparition",
+          "notes": "les feuilles deviennent amères après floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les feuilles de haut en bas au besoin; congeler ou sécher le surplus"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 7-10 jours; idéal pour les boutures actuelles sous LED 18 h/j, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : récolter les feuilles (pesto), laisser mourir - boutures déjà faites (bureau LED 18 h/j)",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "basilic de terrasse = annuel en fin de saison (octobre); les boutures du bureau sous LED 18 h/j se maintiennent en intérieur l'hiver",
+      "astuce": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+    },
+    "basilic-thai": {
+      "espece": "Ocimum basilicum",
+      "noms": [
+        "Basilic classique",
+        "Basilic violet",
+        "Basilic thaï",
+        "Boutures de basilic (détail à venir)"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose légère"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "pincer les extrémités au-dessus d'une paire de feuilles",
+          "notes": "ramifie la plante et retarde la montée à graines"
+        },
+        {
+          "mois": [
+            7,
+            8,
+            9
+          ],
+          "type": "couper les épis floraux dès leur apparition",
+          "notes": "les feuilles deviennent amères après floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les feuilles de haut en bas au besoin; congeler ou sécher le surplus"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 7-10 jours; idéal pour les boutures actuelles sous LED 18 h/j, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : récolter les feuilles (pesto), laisser mourir - boutures déjà faites (bureau LED 18 h/j)",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "basilic de terrasse = annuel en fin de saison (octobre); les boutures du bureau sous LED 18 h/j se maintiennent en intérieur l'hiver",
+      "astuce": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+    },
+    "persil": {
+      "espece": "Petroselinum crispum",
+      "noms": [
+        "Persil"
+      ],
+      "type": "bisannuelle",
+      "rusticite_min_c": -10.0,
+      "chaleur_max_c": 32.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau frais; le persil monte à graines s'il sèche ou en cas de forte chaleur"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "dose légère pour le feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7
+          ],
+          "type": "couper les tiges florales",
+          "notes": "bisannuelle qui monte à graines la 2e année: couper les ombelles pour prolonger la récolte"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          3,
+          4,
+          5,
+          6,
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "notes": "couper les feuilles de l'extérieur vers l'intérieur, la plante repousse"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "methode": "semis en pot (le persil ne se bouture pas)",
+          "notes": "graines lentes (3-4 semaines): les tremper 24 h avant semis"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (bisannuelle rustique; couvrir d'un voile si gel fort annoncé)",
+        "seuil_c": -8.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "connaissances générales; sous pergola 50 % l'ombre légère retarde la montée à graines",
+      "astuce": "terreau frais; le persil monte à graines s'il sèche ou en cas de forte chaleur"
+    },
+    "estragon": {
+      "espece": "Artemisia dracunculus",
+      "noms": [
+        "Estragon"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 4,
+        "frequence_hiver_jours": 12,
+        "notes": "laisser sécher entre 2 arrosages; l'estragon déteste l'eau stagnante"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "amendement léger en surface suffit; plante peu gourmande"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "rabattre les tiges sèches à 5 cm",
+          "notes": "nettoyage de printemps, la souche repart"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "notes": "cueillir les jeunes pousses; parfum maximal avant la floraison (juin-juillet)"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6
+          ],
+          "methode": "éclats de souche ou tiges de 10 cm",
+          "notes": "l'estragon français ne produit pas de graines fertiles: division ou bouturage uniquement"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot; isoler le pot si gel très fort annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "plants.yaml indique 'français ou russe ?': soins quasi identiques, le russe est plus rustique mais moins parfumé",
+      "astuce": "laisser sécher entre 2 arrosages; l'estragon déteste l'eau stagnante"
+    },
+    "combava": {
+      "espece": "Citrus hystrix",
+      "noms": [
+        "Combava"
+      ],
+      "type": "arbuste",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau frais mais drainé, jamais d'eau stagnante; brumiser le feuillage en intérieur chauffé"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 21,
+          "produit": "a_acheter:engrais agrumes (riche en oligo-éléments et fer)",
+          "notes": "les engrais universels ne conviennent pas aux agrumes en pot; prévoir aussi un chélate de fer si jaunissement des feuilles (chlorose)"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "type": "taille légère de structure",
+          "notes": "supprimer les branches croisées et les rejets du porte-greffe"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          9,
+          10,
+          11,
+          12
+        ],
+        "notes": "les feuilles sont l'épice (cuisine); les fruits mûrissent en hiver"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6
+          ],
+          "methode": "tige semi-aoûtée 15 cm avec hormone de bouturage",
+          "notes": "reprise lente et incertaine; le greffage reste la méthode professionnelle"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer avant 8 °C - pas de pièce non chauffée dispo : pièce chauffée lumineuse (fenêtre la plus lumineuse), brumiser le feuillage, arrosage espacé",
+        "seuil_c": 8.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "agrume tropical : pas de repos froid nécessaire, pièce chauffée OK si lumière suffisante"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "agrume non rustique: rentrer avant les 8 °C, le feuillage souffre sous 5 °C",
+      "astuce": "terreau frais mais drainé, jamais d'eau stagnante; brumiser le feuillage en intérieur chauffé"
+    },
+    "erable-brown-sugar": {
+      "espece": "Acer palmatum",
+      "noms": [
+        "Érable 'Brown Sugar'"
+      ],
+      "type": "arbuste",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "terreau frais en permanence l'été; les feuilles brûlent si le pot sèche (brûlure des feuilles par forte chaleur)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "frequence_jours": 90,
+          "produit": "engrais_granule_universel",
+          "notes": "engrais de fond à libération lente, dose légère; ne pas mettre de fumier (risque de verticilliose)"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            11,
+            12
+          ],
+          "type": "taille légère de structure",
+          "notes": "tailler en hiver (sève au repos): bois mort, branches croisées; éviter de tailler au printemps (pleurs)"
+        }
+      ],
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "methode": "tige semi-aoûtée 10 cm",
+          "notes": "reprise lente; le greffage est plus courant pour les cultivars"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3
+        ]
+      },
+      "hivernage": {
+        "action": "rien sous -12 °C; au-delà, isoler le pot (voile d'hivernage, calage au sol)",
+        "seuil_c": -12.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "vérifié en ligne: 'Brown Sugar' est bien un cultivar d'Acer palmatum (PBR 'JWW7'), rustique à -23,5 °C en pleine terre; valeur en pot prudente (-15 °C)",
+      "astuce": "terreau frais en permanence l'été; les feuilles brûlent si le pot sèche (brûlure des feuilles par forte chaleur)"
+    },
+    "laurier-rouge": {
+      "espece": "Nerium oleander",
+      "noms": [
+        "Laurier rouge"
+      ],
+      "type": "arbuste",
+      "rusticite_min_c": -5.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "très gourmand en eau l'été en pot (arroser abondamment); réduire fortement l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour une belle floraison"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "rabattre d'un tiers",
+          "notes": "taille de printemps pour ramifier; les fleurs apparaissent sur les pousses de l'année"
+        },
+        {
+          "mois": [
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "couper les fleurs fanées",
+          "notes": "favorise une seconde floraison"
+        }
+      ],
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "methode": "tige de 15-20 cm dans un verre d'eau",
+          "notes": "racines en 3-4 semaines dans l'eau, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -5.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "a déjà passé un hiver dehors en pot chez nous sans dommage -> pas de rentrée; voile d'hivernage seulement si gel < -5 °C prévu (racines en pot plus sensibles qu'en pleine terre)"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "toxicite": "très toxique (toutes les parties, latex): porter des gants, ne pas brûler le bois; dangereux pour humains et animaux",
+      "confiance": "haute",
+      "sources_notes": "laurier-rose en pot: protéger sous -3 à -5 °C (racines en pot plus sensibles qu'en pleine terre)",
+      "astuce": "très gourmand en eau l'été en pot (arroser abondamment); réduire fortement l'hiver"
+    },
+    "piment-cayenne": {
+      "espece": "Capsicum annuum",
+      "noms": [
+        "Piment de Cayenne",
+        "Piment Lila Luzi"
+      ],
+      "type": "potager",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "arrosages réguliers mais laisser sécher légèrement; un excès d'eau fait tomber les fleurs"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification; dose modérée (trop d'azote = feuilles sans fruits)"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "pincer la première fourche",
+          "notes": "supprimer la première fleur pour renforcer la plante; étêter fin août pour mûrir les derniers piments"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "les piments se colorent en mûrissant (vert vers rouge); ils continuent de mûrir à l'intérieur après cueillette"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "methode": "tige de 10 cm dans l'eau",
+          "notes": "bouturage possible mais le semis reste la méthode principale"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : arracher, composter, garder des graines",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "annuels en fin de cycle; l'hivernage en intérieur est possible mais moins fiable que pour Capsicum frutescens (pili-pili)",
+      "astuce": "arrosages réguliers mais laisser sécher légèrement; un excès d'eau fait tomber les fleurs"
+    },
+    "piment-pili-pili": {
+      "espece": "Capsicum frutescens",
+      "noms": [
+        "Piment pili-pili"
+      ],
+      "type": "potager",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "arrosages réguliers mais laisser sécher légèrement; réduire fortement en hivernage intérieur"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification; dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "pincer la première fourche",
+          "notes": "supprimer la première fleur pour renforcer la plante; étêter fin août"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          7,
+          8,
+          9,
+          10,
+          11
+        ],
+        "notes": "se récolte vert ou rouge; les pili-pili se sèchent très bien pour la conservation"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "methode": "tige de 10 cm dans l'eau",
+          "notes": "bouturage possible mais le semis reste la méthode principale"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel (peut vivre plusieurs années); sinon fin de culture",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "le pili-pili (Capsicum frutescens) s'hiverne bien en intérieur: garder au frais, sec et lumineux, il repart au printemps",
+      "astuce": "arrosages réguliers mais laisser sécher légèrement; réduire fortement en hivernage intérieur"
+    },
+    "piment-lila-luzi": {
+      "espece": "Capsicum annuum",
+      "noms": [
+        "Piment de Cayenne",
+        "Piment Lila Luzi"
+      ],
+      "type": "potager",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "arrosages réguliers mais laisser sécher légèrement; un excès d'eau fait tomber les fleurs"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification; dose modérée (trop d'azote = feuilles sans fruits)"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "pincer la première fourche",
+          "notes": "supprimer la première fleur pour renforcer la plante; étêter fin août pour mûrir les derniers piments"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "les piments se colorent en mûrissant (vert vers rouge); ils continuent de mûrir à l'intérieur après cueillette"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "methode": "tige de 10 cm dans l'eau",
+          "notes": "bouturage possible mais le semis reste la méthode principale"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : arracher, composter, garder des graines",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "annuels en fin de cycle; l'hivernage en intérieur est possible mais moins fiable que pour Capsicum frutescens (pili-pili)",
+      "astuce": "arrosages réguliers mais laisser sécher légèrement; un excès d'eau fait tomber les fleurs"
+    },
+    "fraisier-inconnu": {
+      "espece": "Fragaria x ananassa",
+      "noms": [
+        "Fraisier",
+        "Fraisier Gariguette",
+        "Fraisier Mara des Bois"
+      ],
+      "type": "fruitier",
+      "rusticite_min_c": -18.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "amendement organique d'automne ou de début de printemps en surface"
+        },
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification, dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "couper les stolons (coulants) sauf ceux à bouturer",
+          "notes": "les stolons épuisent la plante: n'en garder que pour la multiplication"
+        },
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "type": "rabattre les feuilles après la dernière récolte",
+          "notes": "prépare la repousse pour l'année suivante, limite les maladies"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les fruits bien rouges le matin; Gariguette précoce (fin mai), Mara des Bois remontante jusqu'aux gelées"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "methode": "stolon (coulant) épinglé sur un godet",
+          "notes": "poser le jeune plant sur un godet de terreau sans couper le stolon, le séparer une fois enraciné"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot; isoler la jardinière si -10 °C annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "escargots",
+          "traitement": "a_acheter:granulés anti-limaces, sinon pièges à bière"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "fraisiers en jardinière: renouveler par stolons tous les 2-3 ans car la production décline",
+      "astuce": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+    },
+    "fraisier-gariguette": {
+      "espece": "Fragaria x ananassa",
+      "noms": [
+        "Fraisier",
+        "Fraisier Gariguette",
+        "Fraisier Mara des Bois"
+      ],
+      "type": "fruitier",
+      "rusticite_min_c": -18.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "amendement organique d'automne ou de début de printemps en surface"
+        },
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification, dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "couper les stolons (coulants) sauf ceux à bouturer",
+          "notes": "les stolons épuisent la plante: n'en garder que pour la multiplication"
+        },
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "type": "rabattre les feuilles après la dernière récolte",
+          "notes": "prépare la repousse pour l'année suivante, limite les maladies"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les fruits bien rouges le matin; Gariguette précoce (fin mai), Mara des Bois remontante jusqu'aux gelées"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "methode": "stolon (coulant) épinglé sur un godet",
+          "notes": "poser le jeune plant sur un godet de terreau sans couper le stolon, le séparer une fois enraciné"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot; isoler la jardinière si -10 °C annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "escargots",
+          "traitement": "a_acheter:granulés anti-limaces, sinon pièges à bière"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "fraisiers en jardinière: renouveler par stolons tous les 2-3 ans car la production décline",
+      "astuce": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+    },
+    "fraisier-mara-des-bois": {
+      "espece": "Fragaria x ananassa",
+      "noms": [
+        "Fraisier",
+        "Fraisier Gariguette",
+        "Fraisier Mara des Bois"
+      ],
+      "type": "fruitier",
+      "rusticite_min_c": -18.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "amendement organique d'automne ou de début de printemps en surface"
+        },
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la fructification, dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "couper les stolons (coulants) sauf ceux à bouturer",
+          "notes": "les stolons épuisent la plante: n'en garder que pour la multiplication"
+        },
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "type": "rabattre les feuilles après la dernière récolte",
+          "notes": "prépare la repousse pour l'année suivante, limite les maladies"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les fruits bien rouges le matin; Gariguette précoce (fin mai), Mara des Bois remontante jusqu'aux gelées"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "methode": "stolon (coulant) épinglé sur un godet",
+          "notes": "poser le jeune plant sur un godet de terreau sans couper le stolon, le séparer une fois enraciné"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (rustique en pot; isoler la jardinière si -10 °C annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "escargots",
+          "traitement": "a_acheter:granulés anti-limaces, sinon pièges à bière"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "fraisiers en jardinière: renouveler par stolons tous les 2-3 ans car la production décline",
+      "astuce": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
+    },
+    "petunias": {
+      "espece": "Petunia x hybrida",
+      "noms": [
+        "Pétunias"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 1,
+        "frequence_hiver_jours": 7,
+        "notes": "les pétunias en jardinière sèchent très vite l'été: arroser chaque jour par forte chaleur, sans mouiller les fleurs"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 10,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour une floraison continue; les pétunias sont très gourmands, arroser souvent et fertiliser régulièrement"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            7,
+            8
+          ],
+          "type": "rabattre les tiges trop longues d'un tiers",
+          "notes": "les pétunias retombants s'épuisent: une taille de rajeunissement relance la floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7
+        ],
+        "notes": "couper régulièrement les fleurs fanées (avec leur pédoncule) pour prolonger la floraison"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm sans fleur dans l'eau, puis en pot",
+          "notes": "bouturer fin d'été pour garder les pétunias à l'intérieur l'hiver si souhaité"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : arracher et composter; on peut garder une bouture en intérieur lumineux",
+        "seuil_c": 0.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "pétunias souvent traités comme annuelles en jardinière; fin de cycle en octobre",
+      "astuce": "les pétunias en jardinière sèchent très vite l'été: arroser chaque jour par forte chaleur, sans mouiller les fleurs"
+    },
+    "clematite-blanche": {
+      "espece": "Clematis",
+      "noms": [
+        "Clématite blanche"
+      ],
+      "type": "grimpante",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "pied frais et ombragé en permanence (l'ombre portée par le bac 140 L et les plantes de pied aide), tête au soleil"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour la floraison; dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "taille légère: couper au-dessus d'une paire de bourgeons sur les tiges mortes ou faibles",
+          "notes": "variété inconnue (ex-duo Nubia/Ninon): groupe de taille incertain, tailler modéré et prudent pour ne pas supprimer les fleurs"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "notes": "les fleurs se fanent: couper les têtes fanées pour favoriser une refloraison estivale des variétés remontantes"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            7,
+            8
+          ],
+          "methode": "bouture de tige au nœud",
+          "notes": "planter la bouture avec le nœud enterré dans un pot à l'ombre; mieux : marcottage d'une tige (coucher et enterrer un nœud, séparer au printemps)"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 6,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "hivernage": {
+        "action": "rien (très rustique; pailler la base du bac)",
+        "seuil_c": -15.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "oidium",
+          "traitement": "a_acheter:soufre ou bouillie soufrée (fongicide)"
+        },
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "cultivar 'Nubia' (viticella, taille groupe 3) fréquent en blanc/rose; 'Ninon' aussi envisagé — confiance moyenne sur le groupe de taille exact, d'où une taille prudente",
+      "astuce": "pied frais et ombragé en permanence (l'ombre portée par le bac 140 L et les plantes de pied aide), tête au soleil"
+    },
+    "chevrefeuille-chine": {
+      "espece": "Lonicera chinensis",
+      "noms": [
+        "Chèvrefeuille de Chine"
+      ],
+      "type": "grimpante",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "pied frais sans excès, pailler la base du bac 140 L; tolère la mi-ombre de la pergola"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "frequence_jours": 365,
+          "produit": "fumier_or_brun",
+          "notes": "amendement organique de printemps, suffisant pour une grimpante peu exigeante"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7
+          ],
+          "type": "denteler légèrement après floraison",
+          "notes": "le chèvrefeuille fleurit sur le bois de l'année précédente: ne pas tailler sévèrement en fin d'hiver"
+        },
+        {
+          "mois": [
+            3
+          ],
+          "type": "taille de nettoyage",
+          "notes": "supprimer les branches mortes ou trop denses"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          6,
+          7,
+          8,
+          9
+        ],
+        "notes": "semi-persistant, feuillage décoratif presque toute l'année; floraison parfumée dès juin"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            7,
+            8
+          ],
+          "methode": "bouture de tige de 10 cm en godet, ou marcottage d'une tige",
+          "notes": "marcottage fiable: coucher une tige au sol dans le même bac et la fixer"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 300,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (semi-persistant, rustique; protéger si -15 °C annoncé)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "araignees_rouges",
+          "traitement": "a_acheter:acariens prédateurs (Phytoseiulus persimilis)",
+          "notes": "a très bien fonctionné en 2026: le chèvrefeuille a bien repris après traitement"
+        },
+        {
+          "nom": "oidium",
+          "traitement": "réduire l'humidité du feuillage (ne plus mouiller les feuilles)",
+          "notes": "apparu en 2026 après arrosages répétés contre les araignées rouges; s'est résorbé en asséchant"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "identifié par l'utilisateur comme Lonicera chinensis (a priori, à confirmer); soins de grimpante rustique semi-persistante",
+      "astuce": "pied frais sans excès, pailler la base du bac 140 L; tolère la mi-ombre de la pergola"
+    },
+    "geranium-vivace": {
+      "espece": "Geranium",
+      "noms": [
+        "Géranium vivace"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "terreau frais mais drainé, sans eau stagnante"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_geranium",
+          "notes": "dose légère au printemps, suffisante pour le pied des clématites"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            7,
+            8
+          ],
+          "type": "couper les fleurs fanées",
+          "notes": "supprimer régulièrement les fleurs fanées (et la tête) pour prolonger la floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8
+        ],
+        "notes": "floraison décorative du printemps à l'été"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "methode": "division de la touffe",
+          "notes": "diviser la touffe tous les 3-4 ans au printemps pour la rajeunir et la multiplier"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (vivace rustique; rabat les tiges sèches au printemps)",
+        "seuil_c": -10.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "espèce non précisée (Geranium sp., géranium vivace de pied); la division de touffe est la méthode de multiplication fiable pour toutes les espèces",
+      "astuce": "terreau frais mais drainé, sans eau stagnante"
+    },
+    "hosta": {
+      "espece": "Hosta",
+      "noms": [
+        "Hosta"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -25.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "les hostas adorent l'humidité: garder le terreau frais l'été, pailler; gros buveur au pied des clématites"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            9,
+            10
+          ],
+          "type": "couper les feuilles fanées",
+          "notes": "les feuilles jaunissent à l'automne: couper à la base pour faire propre"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          7
+        ],
+        "notes": "les jeunes pousses (hostons) sont comestibles: à cueillir très tôt au printemps avant déploiement"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            9
+          ],
+          "methode": "division de la touffe",
+          "notes": "diviser en éclats de 2-3 yeux au printemps ou en automne, reprise très fiable"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          4,
+          9
+        ]
+      },
+      "hivernage": {
+        "action": "rien (très rustique; la souche repart au printemps)",
+        "seuil_c": -18.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "limaces",
+          "traitement": "a_acheter:granulés anti-limaces (le savon noir ne suffit pas contre les limaces)"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "hostas très rustiques et faciles; la division de touffe est la méthode (pas de bouturage de tige)",
+      "astuce": "les hostas adorent l'humidité: garder le terreau frais l'été, pailler; gros buveur au pied des clématites"
+    },
+    "hosta-2": {
+      "espece": "Hosta",
+      "noms": [
+        "Hosta"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -25.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "les hostas adorent l'humidité: garder le terreau frais l'été, pailler; gros buveur au pied des clématites"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose modérée"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            9,
+            10
+          ],
+          "type": "couper les feuilles fanées",
+          "notes": "les feuilles jaunissent à l'automne: couper à la base pour faire propre"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          7
+        ],
+        "notes": "les jeunes pousses (hostons) sont comestibles: à cueillir très tôt au printemps avant déploiement"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            9
+          ],
+          "methode": "division de la touffe",
+          "notes": "diviser en éclats de 2-3 yeux au printemps ou en automne, reprise très fiable"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          4,
+          9
+        ]
+      },
+      "hivernage": {
+        "action": "rien (très rustique; la souche repart au printemps)",
+        "seuil_c": -18.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "limaces",
+          "traitement": "a_acheter:granulés anti-limaces (le savon noir ne suffit pas contre les limaces)"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "hostas très rustiques et faciles; la division de touffe est la méthode (pas de bouturage de tige)",
+      "astuce": "les hostas adorent l'humidité: garder le terreau frais l'été, pailler; gros buveur au pied des clématites"
+    },
+    "campanule-murs": {
+      "espece": "Campanula portenschlagiana",
+      "noms": [
+        "Campanule des murs"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "terreau frais mais drainé, supporte bien la sécheresse passagère"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_geranium",
+          "notes": "dose légère pour encourager la floraison"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            7,
+            8
+          ],
+          "type": "rabattre après la floraison",
+          "notes": "couper les fleurs fanées et tailler la touffe pour favoriser une refloraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          12
+        ],
+        "notes": "plante ornementale à fleurs: pas de récolte"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "notes": "diviser au printemps pour rajeunir et multiplier; reprise très facile",
+          "type": "division de la touffe"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (très rustique; le feuillage persiste et reste bas, idéal au pied des clématites)",
+        "seuil_c": -15.0,
+        "mois": [
+          11,
+          12
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "gastropodes",
+          "traitement": "a_acheter:granulés anti-limaces, sinon pièges à bière"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Campanula portenschlagiana = campanule des murs, vivace couvre-sol rustique, très adaptée à la mi-ombre du pied des clématites",
+      "astuce": "terreau frais mais drainé, supporte bien la sécheresse passagère"
+    },
+    "heuchere-foncee": {
+      "espece": "Heuchera sp.",
+      "noms": [
+        "Heuchère"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "au pied des clématites (bac 140 L, sous pergola ~50% soleil) : garder le sol frais mais drainé; arroser régulièrement l'été, réduire l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "apport léger au printemps pour un beau feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "nettoyer les feuilles abîmées",
+          "notes": "retirer les vieilles feuilles de l'hiver"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique, reste dehors toute l'année; feuillage persistant, garder le pied au sec l'hiver"
+      },
+      "parasites": [
+        {
+          "nom": "limaces",
+          "traitement": "a_acheter:anti-limaces"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "heuchère : vivace de sous-bois, mi-ombre, très rustique, feuillage décoratif",
+      "astuce": "au pied des clématites (bac 140 L, sous pergola ~50% soleil) : garder le sol frais mais drainé; arroser régulièrement l'été, réduire l'hiver"
+    },
+    "heuchere-verte": {
+      "espece": "Heuchera sp.",
+      "noms": [
+        "Heuchère"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "au pied des clématites (bac 140 L, sous pergola ~50% soleil) : garder le sol frais mais drainé; arroser régulièrement l'été, réduire l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "apport léger au printemps pour un beau feuillage"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "nettoyer les feuilles abîmées",
+          "notes": "retirer les vieilles feuilles de l'hiver"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique, reste dehors toute l'année; feuillage persistant, garder le pied au sec l'hiver"
+      },
+      "parasites": [
+        {
+          "nom": "limaces",
+          "traitement": "a_acheter:anti-limaces"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "heuchère : vivace de sous-bois, mi-ombre, très rustique, feuillage décoratif",
+      "astuce": "au pied des clématites (bac 140 L, sous pergola ~50% soleil) : garder le sol frais mais drainé; arroser régulièrement l'été, réduire l'hiver"
+    },
+    "trefle-blanc": {
+      "espece": "Trifolium repens",
+      "noms": [
+        "Trèfle blanc"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "arrosage": {
+        "frequence_ete_jours": 4,
+        "frequence_hiver_jours": 12,
+        "notes": "couvre-sol au pied des clématites (bac 140 L) : garder le sol frais, arroser régulièrement l'été, réduire l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "peu gourmand; le trèfle fixe l'azote lui-même, apport léger seulement"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            6,
+            7,
+            8
+          ],
+          "type": "tondre/couper les fleurs fanées",
+          "notes": "éviter la montée à graines si on veut limiter l'expansion"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique, reste dehors toute l'année; couvre-sol qui peut s'étendre, surveiller qu'il n'étouffe pas les autres plantes du bac"
+      },
+      "parasites": [],
+      "confiance": "haute",
+      "sources_notes": "trèfle blanc : couvre-sol rustique, fixateur d'azote, très résistant au froid",
+      "astuce": "couvre-sol au pied des clématites (bac 140 L) : garder le sol frais, arroser régulièrement l'été, réduire l'hiver"
+    },
+    "boutures-basilic": {
+      "espece": "Ocimum basilicum",
+      "noms": [
+        "Basilic classique",
+        "Basilic violet",
+        "Basilic thaï",
+        "Boutures de basilic (détail à venir)"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 7,
+        "notes": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_plantes_vertes",
+          "notes": "azote pour un beau feuillage; dose légère"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "pincer les extrémités au-dessus d'une paire de feuilles",
+          "notes": "ramifie la plante et retarde la montée à graines"
+        },
+        {
+          "mois": [
+            7,
+            8,
+            9
+          ],
+          "type": "couper les épis floraux dès leur apparition",
+          "notes": "les feuilles deviennent amères après floraison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "cueillir les feuilles de haut en bas au besoin; congeler ou sécher le surplus"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige de 10 cm dans un verre d'eau",
+          "notes": "racines en 7-10 jours; idéal pour les boutures actuelles sous LED 18 h/j, puis repiquage en pot"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          4,
+          5
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture : récolter les feuilles (pesto), laisser mourir - boutures déjà faites (bureau LED 18 h/j)",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "basilic de terrasse = annuel en fin de saison (octobre); les boutures du bureau sous LED 18 h/j se maintiennent en intérieur l'hiver",
+      "astuce": "terreau toujours frais mais jamais détrempé; arroser le matin au pied, éviter les feuilles"
+    },
+    "agave-bouture-1": {
+      "espece": "Agave americana variegata",
+      "noms": [
+        "Agave américain panaché"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -7.0,
+      "chaleur_max_c": 45.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 15,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit, ne pas sur-fertiliser"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "protéger voile",
+        "seuil_c": -5.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "hiver = sous la table de la terrasse (abrite de la pluie et du gel, froid humide pire que froid sec). Rustique ~-7 °C en pleine terre mais racines en pot plus sensibles; jeunes boutures fragiles -> voile d'hivernage dès gel < -5 °C prévu, garder au sec. Pas de pièce non chauffée dispo : si gel fort prolongé, rentrer en pièce chauffée lumineuse en réduisant l'arrosage"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "toxicite": "sève irritante (cristaux d'oxalate) et épines acérées : porter des gants, attention aux yeux",
+      "confiance": "haute",
+      "sources_notes": "agave en pot : très résistant à la sécheresse et à la chaleur, craint surtout l'excès d'eau et le froid humide",
+      "astuce": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+    },
+    "agave-bouture-2": {
+      "espece": "Agave americana variegata",
+      "noms": [
+        "Agave américain panaché"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -7.0,
+      "chaleur_max_c": 45.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 15,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit, ne pas sur-fertiliser"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "protéger voile",
+        "seuil_c": -5.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "hiver = sous la table de la terrasse (abrite de la pluie et du gel, froid humide pire que froid sec). Rustique ~-7 °C en pleine terre mais racines en pot plus sensibles; jeunes boutures fragiles -> voile d'hivernage dès gel < -5 °C prévu, garder au sec. Pas de pièce non chauffée dispo : si gel fort prolongé, rentrer en pièce chauffée lumineuse en réduisant l'arrosage"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "toxicite": "sève irritante (cristaux d'oxalate) et épines acérées : porter des gants, attention aux yeux",
+      "confiance": "haute",
+      "sources_notes": "agave en pot : très résistant à la sécheresse et à la chaleur, craint surtout l'excès d'eau et le froid humide",
+      "astuce": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+    },
+    "agave-bouture-3": {
+      "espece": "Agave americana variegata",
+      "noms": [
+        "Agave américain panaché"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -7.0,
+      "chaleur_max_c": 45.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 15,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit, ne pas sur-fertiliser"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "protéger voile",
+        "seuil_c": -5.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "hiver = sous la table de la terrasse (abrite de la pluie et du gel, froid humide pire que froid sec). Rustique ~-7 °C en pleine terre mais racines en pot plus sensibles; jeunes boutures fragiles -> voile d'hivernage dès gel < -5 °C prévu, garder au sec. Pas de pièce non chauffée dispo : si gel fort prolongé, rentrer en pièce chauffée lumineuse en réduisant l'arrosage"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "toxicite": "sève irritante (cristaux d'oxalate) et épines acérées : porter des gants, attention aux yeux",
+      "confiance": "haute",
+      "sources_notes": "agave en pot : très résistant à la sécheresse et à la chaleur, craint surtout l'excès d'eau et le froid humide",
+      "astuce": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+    },
+    "agave-bouture-4": {
+      "espece": "Agave americana variegata",
+      "noms": [
+        "Agave américain panaché"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -7.0,
+      "chaleur_max_c": 45.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 15,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit, ne pas sur-fertiliser"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "protéger voile",
+        "seuil_c": -5.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "hiver = sous la table de la terrasse (abrite de la pluie et du gel, froid humide pire que froid sec). Rustique ~-7 °C en pleine terre mais racines en pot plus sensibles; jeunes boutures fragiles -> voile d'hivernage dès gel < -5 °C prévu, garder au sec. Pas de pièce non chauffée dispo : si gel fort prolongé, rentrer en pièce chauffée lumineuse en réduisant l'arrosage"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "toxicite": "sève irritante (cristaux d'oxalate) et épines acérées : porter des gants, attention aux yeux",
+      "confiance": "haute",
+      "sources_notes": "agave en pot : très résistant à la sécheresse et à la chaleur, craint surtout l'excès d'eau et le froid humide",
+      "astuce": "succulente : laisser le substrat totalement sec entre 2 arrosages; en pot, arroser peu et rarement, surtout l'hiver (risque de pourriture si trop d'eau)"
+    },
+    "sempervivum-pourpre": {
+      "espece": "Sempervivum sp.",
+      "noms": [
+        "Sempervivum pourpre",
+        "Joubarbe"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 15,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente très résistante : laisser le substrat sécher complètement entre 2 arrosages; en pot, arroser peu et rarement, quasi rien l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique (jusqu'à -20 °C), reste dehors toute l'année même en pot; craint surtout l'excès d'eau en hiver -> garder au sec"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "joubarbe : une des plantes les plus résistantes au froid et à la sécheresse, parfaite en pot sur terrasse",
+      "astuce": "succulente très résistante : laisser le substrat sécher complètement entre 2 arrosages; en pot, arroser peu et rarement, quasi rien l'hiver"
+    },
+    "sedum-yellow-cushion": {
+      "espece": "Sedum 'Yellow Cushion'",
+      "noms": [
+        "Sedum Yellow Cushion"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "arrosage": {
+        "frequence_ete_jours": 12,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique (jusqu'à -20 °C), reste dehors toute l'année même en pot; craint surtout l'excès d'eau en hiver -> garder au sec"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "sedum rupestre 'Yellow Cushion' : couvre-sol succulent très résistant au froid et à la sécheresse",
+      "astuce": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+    }
+  },
+  "todo": [
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "ciboulette"
+      ],
+      "action": "bouture",
+      "produit": null,
+      "message": "bouture ciboulette (division de touffe)",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "agave-bouture-1",
+        "agave-bouture-2",
+        "agave-bouture-3",
+        "agave-bouture-4"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Agave (bouture, petit), Agave (bouture, petit), Agave (bouture, plus gros), Agave (bouture, plus gros) : protéger voile",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "basilic-classique",
+        "basilic-violet",
+        "basilic-thai"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Basilic classique, Basilic violet, Basilic thaï : fin de culture : récolter les feuilles (pesto), laisser mourir - boutures déjà faites (bureau LED 18 h/j)",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "combava"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Combava : rentrer avant 8 °C - pas de pièce non chauffée dispo : pièce chauffée lumineuse (fenêtre la plus lumineuse), brumiser le feuillage, arrosage espacé",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "petunias"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Pétunias : fin de culture : arracher et composter; on peut garder une bouture en intérieur lumineux",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "piment-cayenne",
+        "piment-lila-luzi"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Piment de Cayenne, Piment Lila Luzi : fin de culture : arracher, composter, garder des graines",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "piment-pili-pili"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Piment pili-pili : rentrer en intérieur lumineux hors gel (peut vivre plusieurs années); sinon fin de culture",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "sauge-ananas"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Sauge ananas : rentrer en intérieur lumineux hors gel (ou garder une bouture)",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "hosta"
+      ],
+      "action": "taille",
+      "produit": null,
+      "message": "taille hosta (couper les feuilles fanées)",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "hosta-2"
+      ],
+      "action": "taille",
+      "produit": null,
+      "message": "taille hosta-2 (couper les feuilles fanées)",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "info",
+      "plant_ids": [
+        "thym-vulgaire",
+        "thym-citron",
+        "ciboulette",
+        "menthe-marocaine",
+        "menthe-gingembre",
+        "menthe-orange",
+        "sauge-ananas",
+        "basilic-classique",
+        "basilic-violet",
+        "basilic-thai",
+        "persil",
+        "combava",
+        "piment-cayenne",
+        "piment-pili-pili",
+        "piment-lila-luzi",
+        "fraisier-inconnu",
+        "fraisier-gariguette",
+        "fraisier-mara-des-bois",
+        "boutures-basilic"
+      ],
+      "action": "recolte",
+      "produit": null,
+      "message": "Récolte possible : Thym vulgaire, Thym citron, Ciboulette, Menthe marocaine, Menthe gingembre, Menthe orange, Sauge ananas, Basilic classique, Basilic violet, Basilic thaï, Persil, Combava, Piment de Cayenne, Piment pili-pili, Piment Lila Luzi, Fraisiers (variété ?), Fraisier Gariguette, Fraisier Mara des Bois, Boutures de basilic (détail à venir)",
+      "urgence": "info"
+    }
+  ],
+  "meteo": {
+    "alertes": [],
+    "previsions": [
+      {
+        "date": "2026-10-08",
+        "tmin": 10.6,
+        "tmax": 17.7,
+        "precip_mm": 30.25,
+        "vent_kmh": 43.9,
+        "code": 80,
+        "label": "averses faibles",
+        "emoji": "🌦️"
+      },
+      {
+        "date": "2026-10-09",
+        "tmin": 9.5,
+        "tmax": 16.1,
+        "precip_mm": 0.0,
+        "vent_kmh": 31.3,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-10",
+        "tmin": 9.3,
+        "tmax": 19.1,
+        "precip_mm": 0.0,
+        "vent_kmh": 16.9,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-11",
+        "tmin": 12.8,
+        "tmax": 19.6,
+        "precip_mm": 0.0,
+        "vent_kmh": 28.4,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-12",
+        "tmin": 7.9,
+        "tmax": 18.7,
+        "precip_mm": 0.0,
+        "vent_kmh": 23.4,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      }
+    ],
+    "erreur": null
+  },
+  "journal": [
+    {
+      "date": "2026-10-06",
+      "plante": "tomate-brin-muguet",
+      "action": "retrait",
+      "note": "fortes chaleurs -> peu de fruits; araignées rouges transmises par une plante d'intérieur; virées"
+    },
+    {
+      "date": "2026-10-06",
+      "plante": "tomate-lucky-tiger",
+      "action": "retrait",
+      "note": "fortes chaleurs -> peu de fruits; araignées rouges transmises par une plante d'intérieur; virées"
+    },
+    {
+      "date": "2026-10-06",
+      "plante": "tomate-balcon",
+      "action": "retrait",
+      "note": "fortes chaleurs -> peu de fruits; araignées rouges transmises par une plante d'intérieur; virées"
+    },
+    {
+      "date": "2026-10-06",
+      "plante": "tomate-miel-mexique",
+      "action": "retrait",
+      "note": "fortes chaleurs -> peu de fruits; araignées rouges transmises par une plante d'intérieur; virées"
+    },
+    {
+      "date": "2026-10-06",
+      "plante": "tomate-noire-crimee",
+      "action": "retrait",
+      "note": "fortes chaleurs -> peu de fruits; araignées rouges transmises par une plante d'intérieur; virées"
+    }
+  ],
+  "calendrier": [
+    {
+      "plante": "thym-vulgaire",
+      "nom": "Thym vulgaire",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "thym-citron",
+      "nom": "Thym citron",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "origan-dore",
+      "nom": "Origan doré",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "ciboulette",
+      "nom": "Ciboulette",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "menthe-marocaine",
+      "nom": "Menthe marocaine",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "menthe-gingembre",
+      "nom": "Menthe gingembre",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "menthe-orange",
+      "nom": "Menthe orange",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sauge-ananas",
+      "nom": "Sauge ananas",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "basilic-classique",
+      "nom": "Basilic classique",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "basilic-violet",
+      "nom": "Basilic violet",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "basilic-thai",
+      "nom": "Basilic thaï",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "persil",
+      "nom": "Persil",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "estragon",
+      "nom": "Estragon",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "combava",
+      "nom": "Combava",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "erable-brown-sugar",
+      "nom": "Érable 'Brown Sugar'",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "laurier-rouge",
+      "nom": "Laurier rouge",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "piment-cayenne",
+      "nom": "Piment de Cayenne",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "piment-pili-pili",
+      "nom": "Piment pili-pili",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "piment-lila-luzi",
+      "nom": "Piment Lila Luzi",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "fraisier-inconnu",
+      "nom": "Fraisiers (variété ?)",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "fraisier-gariguette",
+      "nom": "Fraisier Gariguette",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "fraisier-mara-des-bois",
+      "nom": "Fraisier Mara des Bois",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "petunias",
+      "nom": "Pétunias",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "clematite-blanche",
+      "nom": "Clématite blanche",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "chevrefeuille-chine",
+      "nom": "Chèvrefeuille de Chine",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "geranium-vivace",
+      "nom": "Géranium vivace",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "hosta",
+      "nom": "Hosta",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "hosta-2",
+      "nom": "Hosta (2e",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "campanule-murs",
+      "nom": "Campanule des murs",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "12": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "heuchere-foncee",
+      "nom": "Heuchère foncée (violette)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "heuchere-verte",
+      "nom": "Heuchère verte",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "trefle-blanc",
+      "nom": "Trèfle blanc",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "boutures-basilic",
+      "nom": "Boutures de basilic (détail à venir)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "agave-bouture-1",
+      "nom": "Agave (bouture, petit)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "agave-bouture-2",
+      "nom": "Agave (bouture, petit)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "agave-bouture-3",
+      "nom": "Agave (bouture, plus gros)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "agave-bouture-4",
+      "nom": "Agave (bouture, plus gros)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sempervivum-pourpre",
+      "nom": "Sempervivum pourpre",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sedum-yellow-cushion",
+      "nom": "Sedum Yellow Cushion",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    }
+  ],
+  "stats": {
+    "total_actions": 5,
+    "actions_par_mois": [
+      {
+        "mois": 1,
+        "total": 0
+      },
+      {
+        "mois": 2,
+        "total": 0
+      },
+      {
+        "mois": 3,
+        "total": 0
+      },
+      {
+        "mois": 4,
+        "total": 0
+      },
+      {
+        "mois": 5,
+        "total": 0
+      },
+      {
+        "mois": 6,
+        "total": 0
+      },
+      {
+        "mois": 7,
+        "total": 0
+      },
+      {
+        "mois": 8,
+        "total": 0
+      },
+      {
+        "mois": 9,
+        "total": 0
+      },
+      {
+        "mois": 10,
+        "total": 5
+      },
+      {
+        "mois": 11,
+        "total": 0
+      },
+      {
+        "mois": 12,
+        "total": 0
+      }
+    ],
+    "actions_par_type": {
+      "retrait": 5
+    },
+    "plantes_oubliees": [],
+    "plantes_jamais_soignees": [
+      "agave-bouture-1",
+      "agave-bouture-2",
+      "agave-bouture-3",
+      "agave-bouture-4",
+      "basilic-classique",
+      "basilic-thai",
+      "basilic-violet",
+      "boutures-basilic",
+      "campanule-murs",
+      "chevrefeuille-chine",
+      "ciboulette",
+      "clematite-blanche",
+      "combava",
+      "erable-brown-sugar",
+      "estragon",
+      "fraisier-gariguette",
+      "fraisier-inconnu",
+      "fraisier-mara-des-bois",
+      "geranium-vivace",
+      "heuchere-foncee",
+      "heuchere-verte",
+      "hosta",
+      "hosta-2",
+      "laurier-rouge",
+      "menthe-gingembre",
+      "menthe-marocaine",
+      "menthe-orange",
+      "origan-dore",
+      "persil",
+      "petunias",
+      "piment-cayenne",
+      "piment-lila-luzi",
+      "piment-pili-pili",
+      "sauge-ananas",
+      "sedum-yellow-cushion",
+      "sempervivum-pourpre",
+      "thym-citron",
+      "thym-vulgaire",
+      "trefle-blanc"
+    ],
+    "plante_chouchoutee": null,
+    "serie_arrosage": {
+      "jours": 0,
+      "fin": null
+    }
+  }
+}
