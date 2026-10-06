@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T14:49:46",
+  "generated_at": "2026-10-06T14:54:14",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -839,8 +839,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": null,
-      "photo": null
+      "fiche": "monstera-deliciosa",
+      "photo": {
+        "url": "photos/plantes/monstera-deliciosa.jpg",
+        "source": "wikimedia",
+        "auteur": "JonRichfield",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Cataphylls_on_Philodendron_3471s.jpg"
+      }
     }
   ],
   "fiches": {
@@ -3257,7 +3263,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 3,
@@ -3342,7 +3350,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 2,
@@ -3424,7 +3434,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 2,
@@ -3506,7 +3518,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 3,
@@ -3593,7 +3607,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 3,
@@ -3660,7 +3676,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 3,
@@ -3727,7 +3745,9 @@
       "besoin_lumiere": {
         "intensite": "mi-ombre",
         "tolerance": "tolérante",
-        "saison_critique": []
+        "saison_critique": [
+          "ete"
+        ]
       },
       "arrosage": {
         "frequence_ete_jours": 4,
@@ -4248,6 +4268,70 @@
       "confiance": "haute",
       "sources_notes": "sedum rupestre 'Yellow Cushion' : couvre-sol succulent très résistant au froid et à la sécheresse",
       "astuce": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+    },
+    "monstera": {
+      "espece": "Monstera deliciosa",
+      "noms": [
+        "Monstera",
+        "Monstera deliciosa"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": 10.0,
+      "chaleur_max_c": 35.0,
+      "exposition": "mi-ombre",
+      "besoin_lumiere": {
+        "intensite": "mi-ombre",
+        "tolerance": "tolérante",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 7,
+        "frequence_hiver_jours": 14,
+        "notes": "laisser sécher le terreau en surface entre 2 arrosages; arroser moins en hiver; brumiser le feuillage si air sec"
+      },
+      "engrais": [
+        {
+          "mois": [
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_plantes_vertes",
+          "notes": "engrais plantes vertes dilué, au printemps et en été"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien (plante d'intérieur, pièce chauffée)",
+        "seuil_c": 10.0,
+        "mois": []
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "araignées rouges",
+          "traitement": "acariens_prédateurs"
+        }
+      ],
+      "toxicite": "toxique si ingéré (cristaux d'oxalate de calcium) : tenir hors de portée des animaux",
+      "confiance": "haute",
+      "sources_notes": "plante d'intérieur classique, lumière vive indirecte, jamais de soleil direct brûlant",
+      "astuce": "laisser sécher le terreau en surface entre 2 arrosages; arroser moins en hiver; brumiser le feuillage si air sec"
     }
   },
   "todo": [
@@ -7637,7 +7721,52 @@
     {
       "plante": "monstera",
       "nom": "Monstera",
-      "pastilles": {}
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ]
+      }
     }
   ],
   "stats": {
