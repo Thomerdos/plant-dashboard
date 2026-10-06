@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T09:10:46",
+  "generated_at": "2026-10-06T10:55:49",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -20,7 +20,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "thymus-vulgaris"
+      "fiche": "thymus-vulgaris",
+      "photo": {
+        "url": "photos/plantes/thymus-vulgaris.jpg",
+        "source": "wikimedia",
+        "auteur": "Henry Brisse (upload by user:Abalg)",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Thymus_vulgaris1.JPG"
+      }
     },
     {
       "id": "thym-citron",
@@ -34,7 +41,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "thymus-citriodorus"
+      "fiche": "thymus-citriodorus",
+      "photo": {
+        "url": "photos/plantes/thymus-citriodorus.jpg",
+        "source": "wikimedia",
+        "auteur": "The original uploader was JEL at French Wikipedia.",
+        "licence": "CC BY-SA 2.5",
+        "page": "https://commons.wikimedia.org/wiki/File:Thym_Citron.jpg"
+      }
     },
     {
       "id": "origan-dore",
@@ -48,7 +62,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "origanum-vulgare"
+      "fiche": "origanum-vulgare",
+      "photo": {
+        "url": "photos/plantes/origan-dore.jpg",
+        "source": "wikimedia",
+        "auteur": "Photo by David J. Stang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Origanum_vulgare_aureum_1zz.jpg"
+      }
     },
     {
       "id": "ciboulette",
@@ -62,7 +83,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "allium-schoenoprasum"
+      "fiche": "allium-schoenoprasum",
+      "photo": {
+        "url": "photos/plantes/allium-schoenoprasum.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnes Monkelbaan",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Allium_schoenoprasum_(Bieslook)._actm.jpg"
+      }
     },
     {
       "id": "menthe-marocaine",
@@ -76,7 +104,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "mentha-spicata"
+      "fiche": "mentha-spicata",
+      "photo": {
+        "url": "photos/plantes/menthe-marocaine.jpg",
+        "source": "wikimedia",
+        "auteur": "Photo by David J. Stang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mentha_spicata_7zz.jpg"
+      }
     },
     {
       "id": "menthe-gingembre",
@@ -90,7 +125,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "mentha-x-gracilis"
+      "fiche": "mentha-x-gracilis",
+      "photo": {
+        "url": "photos/plantes/mentha-x-gracilis.jpg",
+        "source": "wikimedia",
+        "auteur": "SEWilco",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mentha_gracilis_and_rotundifolia_MN_2007.JPG"
+      }
     },
     {
       "id": "menthe-orange",
@@ -104,7 +146,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "mentha-x-piperita"
+      "fiche": "mentha-x-piperita",
+      "photo": {
+        "url": "photos/plantes/mentha-x-piperita.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Pfefferminze_natur_peppermint.jpg"
+      }
     },
     {
       "id": "sauge-ananas",
@@ -118,7 +167,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "salvia-elegans"
+      "fiche": "salvia-elegans",
+      "photo": {
+        "url": "photos/plantes/salvia-elegans.jpg",
+        "source": "wikimedia",
+        "auteur": "Eric Hunt",
+        "licence": "CC BY 2.5",
+        "page": "https://commons.wikimedia.org/wiki/File:Salvia_elegans.jpg"
+      }
     },
     {
       "id": "basilic-classique",
@@ -132,7 +188,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "ocimum-basilicum"
+      "fiche": "ocimum-basilicum",
+      "photo": {
+        "url": "photos/plantes/ocimum-basilicum.jpg",
+        "source": "wikimedia",
+        "auteur": "Photo by David J. Stang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_8zz.jpg"
+      }
     },
     {
       "id": "basilic-violet",
@@ -146,7 +209,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "ocimum-basilicum"
+      "fiche": "ocimum-basilicum",
+      "photo": {
+        "url": "photos/plantes/basilic-violet.jpg",
+        "source": "wikimedia",
+        "auteur": "Photo by David J. Stang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_Purple_Ruffles_1zz.jpg"
+      }
     },
     {
       "id": "basilic-thai",
@@ -160,7 +230,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "ocimum-basilicum"
+      "fiche": "ocimum-basilicum",
+      "photo": {
+        "url": "photos/plantes/basilic-thai.jpg",
+        "source": "wikimedia",
+        "auteur": "Sven.petersen",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:9268-Horapa_Flower.jpg"
+      }
     },
     {
       "id": "persil",
@@ -174,7 +251,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "petroselinum-crispum"
+      "fiche": "petroselinum-crispum",
+      "photo": {
+        "url": "photos/plantes/petroselinum-crispum.jpg",
+        "source": "wikimedia",
+        "auteur": "Jonathunder",
+        "licence": "GFDL 1.2",
+        "page": "https://commons.wikimedia.org/wiki/File:Petroselinum.jpg"
+      }
     },
     {
       "id": "estragon",
@@ -188,7 +272,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "artemisia-dracunculus"
+      "fiche": "artemisia-dracunculus",
+      "photo": {
+        "url": "photos/plantes/artemisia-dracunculus.jpg",
+        "source": "wikimedia",
+        "auteur": "Kolforn (Kolforn)\nI'd appreciate if you could mail me (Kolforn@gmail.com) if you want to use this picture out of the Wikimedia project scope.\n\n\n\n This file is licensed under the Creative Commons Attribution-Share Alike 4.0 International license.\nYou are free:\nto share – to copy, distribute and transmit the work\nto remix – to adapt the work\nUnder the following conditions:\nattribution – You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.\nshare alike – If you remix, transform, or build upon the material, you must distribute your contributions under the same or compatible license as the original.https://creativecommons.org/licenses/by-sa/4.0CC BY-SA 4.0 Creative Commons Attribution-Share Alike 4.0 truetrue",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:-2019-07-21_Tarragon,_(Artemisia_dracunculus),_Trimingham.JPG"
+      }
     },
     {
       "id": "combava",
@@ -202,7 +293,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "citrus-hystrix"
+      "fiche": "citrus-hystrix",
+      "photo": {
+        "url": "photos/plantes/citrus-hystrix.jpg",
+        "source": "wikimedia",
+        "auteur": "David Monniaux",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Citrus_hystrix_dsc07772.jpg"
+      }
     },
     {
       "id": "erable-brown-sugar",
@@ -216,7 +314,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "acer-palmatum"
+      "fiche": "acer-palmatum",
+      "photo": {
+        "url": "photos/plantes/erable-brown-sugar.jpg",
+        "source": "wikimedia",
+        "auteur": "Dominicus Johannes Bergsma",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Knop_van_een_esdoorn_(Acer_platanoides)._03-04-2023_(d.j.b.).jpg"
+      }
     },
     {
       "id": "laurier-rouge",
@@ -230,7 +335,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "nerium-oleander"
+      "fiche": "nerium-oleander",
+      "photo": {
+        "url": "photos/plantes/nerium-oleander.jpg",
+        "source": "wikimedia",
+        "auteur": "Andrey Butko",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:%D0%9D%D0%B8%D0%BA%D0%B8%D1%82%D1%81%D0%BA%D0%B8%D0%B9_%D0%B1%D0%BE%D1%82%D0%B0%D0%BD%D0%B8%D1%87%D0%B5%D1%81%D0%BA%D0%B8%D0%B9_%D1%81%D0%B0%D0%B4_023.jpg"
+      }
     },
     {
       "id": "piment-cayenne",
@@ -244,7 +356,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "capsicum-annuum"
+      "fiche": "capsicum-annuum",
+      "photo": {
+        "url": "photos/plantes/capsicum-annuum.jpg",
+        "source": "wikimedia",
+        "auteur": "Brocken Inaglory",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Baby_Bell_pepper_%27%27Capsicum_annuum%27%27_.jpg"
+      }
     },
     {
       "id": "piment-pili-pili",
@@ -258,7 +377,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "capsicum-frutescens"
+      "fiche": "capsicum-frutescens",
+      "photo": {
+        "url": "photos/plantes/capsicum-frutescens.jpg",
+        "source": "wikimedia",
+        "auteur": "Unknown authorUnknown author",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Tabasco_peppers.JPG"
+      }
     },
     {
       "id": "piment-lila-luzi",
@@ -272,7 +398,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "capsicum-annuum"
+      "fiche": "capsicum-annuum",
+      "photo": {
+        "url": "photos/plantes/capsicum-annuum.jpg",
+        "source": "wikimedia",
+        "auteur": "Brocken Inaglory",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Baby_Bell_pepper_%27%27Capsicum_annuum%27%27_.jpg"
+      }
     },
     {
       "id": "fraisier-inconnu",
@@ -286,7 +419,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "fragaria-x-ananassa"
+      "fiche": "fragaria-x-ananassa",
+      "photo": {
+        "url": "photos/plantes/fragaria-x-ananassa.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Owoce_Truskawka.jpg"
+      }
     },
     {
       "id": "fraisier-gariguette",
@@ -300,7 +440,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "fragaria-x-ananassa"
+      "fiche": "fragaria-x-ananassa",
+      "photo": {
+        "url": "photos/plantes/fragaria-x-ananassa.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Owoce_Truskawka.jpg"
+      }
     },
     {
       "id": "fraisier-mara-des-bois",
@@ -314,7 +461,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "fragaria-x-ananassa"
+      "fiche": "fragaria-x-ananassa",
+      "photo": {
+        "url": "photos/plantes/fragaria-x-ananassa.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Owoce_Truskawka.jpg"
+      }
     },
     {
       "id": "petunias",
@@ -328,7 +482,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "petunia-x-hybrida"
+      "fiche": "petunia-x-hybrida",
+      "photo": {
+        "url": "photos/plantes/petunia-x-hybrida.jpg",
+        "source": "wikimedia",
+        "auteur": "kallerna",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Petunia_x_hybrida.JPG"
+      }
     },
     {
       "id": "clematite-blanche",
@@ -342,7 +503,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "clematis"
+      "fiche": "clematis",
+      "photo": {
+        "url": "photos/plantes/clematis.jpg",
+        "source": "wikimedia",
+        "auteur": "No machine-readable author provided. Bogdan assumed (based on copyright claims).",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Clematis_vitalba_bgiu.jpg"
+      }
     },
     {
       "id": "chevrefeuille-chine",
@@ -356,7 +524,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "lonicera"
+      "fiche": "lonicera",
+      "photo": {
+        "url": "photos/plantes/lonicera.jpg",
+        "source": "wikimedia",
+        "auteur": "Internet Archive Book Images",
+        "licence": "No restrictions",
+        "page": "https://commons.wikimedia.org/wiki/File:Design_and_improvement_of_school_grounds_(1921)_(14596895668).jpg"
+      }
     },
     {
       "id": "geranium-vivace",
@@ -370,7 +545,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "geranium"
+      "fiche": "geranium",
+      "photo": {
+        "url": "photos/plantes/geranium.jpg",
+        "source": "wikimedia",
+        "auteur": "Alvesgaspar",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Geranium_February_2008-1.jpg"
+      }
     },
     {
       "id": "hosta",
@@ -384,11 +566,18 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "hosta"
+      "fiche": "hosta",
+      "photo": {
+        "url": "photos/plantes/hosta.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hosta_Bressingham_Blue.JPG"
+      }
     },
     {
       "id": "hosta-2",
-      "nom": "Hosta (2e",
+      "nom": "Hosta (2e pied)",
       "espece": "Hosta sp.",
       "categorie": "vivace",
       "emplacement": "terrasse",
@@ -398,7 +587,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "hosta"
+      "fiche": "hosta",
+      "photo": {
+        "url": "photos/plantes/hosta.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Hosta_Bressingham_Blue.JPG"
+      }
     },
     {
       "id": "campanule-murs",
@@ -412,7 +608,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "campanula-portenschlagiana"
+      "fiche": "campanula-portenschlagiana",
+      "photo": {
+        "url": "photos/plantes/campanula-portenschlagiana.jpg",
+        "source": "wikimedia",
+        "auteur": "Kurt Stüber [1]",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Campanula_portenschlagiana0.jpg"
+      }
     },
     {
       "id": "heuchere-foncee",
@@ -426,7 +629,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "heuchera"
+      "fiche": "heuchera",
+      "photo": {
+        "url": "photos/plantes/heuchera.jpg",
+        "source": "wikimedia",
+        "auteur": "Daniel Thornton",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Heuchera_sp._(8626978119).jpg"
+      }
     },
     {
       "id": "heuchere-verte",
@@ -440,7 +650,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "heuchera"
+      "fiche": "heuchera",
+      "photo": {
+        "url": "photos/plantes/heuchere-verte.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Heuchera_elegans_2.jpg"
+      }
     },
     {
       "id": "trefle-blanc",
@@ -454,7 +671,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "trifolium-repens"
+      "fiche": "trifolium-repens",
+      "photo": {
+        "url": "photos/plantes/trifolium-repens.jpg",
+        "source": "wikimedia",
+        "auteur": "Vinayaraj",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Trifolium_repens_-_white_clover_on_way_from_Govindghat_to_Gangria_at_Valley_of_Flowers_National_Park_-_during_LGFC_-_VOF_2019_(1).jpg"
+      }
     },
     {
       "id": "boutures-basilic",
@@ -468,7 +692,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "ocimum-basilicum"
+      "fiche": "ocimum-basilicum",
+      "photo": {
+        "url": "photos/plantes/ocimum-basilicum.jpg",
+        "source": "wikimedia",
+        "auteur": "Photo by David J. Stang",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Ocimum_basilicum_8zz.jpg"
+      }
     },
     {
       "id": "agave-bouture-1",
@@ -482,7 +713,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "agave-americana"
+      "fiche": "agave-americana",
+      "photo": {
+        "url": "photos/plantes/agave-americana.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Agave_americana_%27Variegata%27_Agawa_ameryka%C5%84ska_2023-10-31_01.jpg"
+      }
     },
     {
       "id": "agave-bouture-2",
@@ -496,7 +734,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "agave-americana"
+      "fiche": "agave-americana",
+      "photo": {
+        "url": "photos/plantes/agave-americana.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Agave_americana_%27Variegata%27_Agawa_ameryka%C5%84ska_2023-10-31_01.jpg"
+      }
     },
     {
       "id": "agave-bouture-3",
@@ -510,7 +755,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "agave-americana"
+      "fiche": "agave-americana",
+      "photo": {
+        "url": "photos/plantes/agave-americana.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Agave_americana_%27Variegata%27_Agawa_ameryka%C5%84ska_2023-10-31_01.jpg"
+      }
     },
     {
       "id": "agave-bouture-4",
@@ -524,7 +776,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "agave-americana"
+      "fiche": "agave-americana",
+      "photo": {
+        "url": "photos/plantes/agave-americana.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Agave_americana_%27Variegata%27_Agawa_ameryka%C5%84ska_2023-10-31_01.jpg"
+      }
     },
     {
       "id": "sempervivum-pourpre",
@@ -538,7 +797,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "sempervivum"
+      "fiche": "sempervivum",
+      "photo": {
+        "url": "photos/plantes/sempervivum.jpg",
+        "source": "wikimedia",
+        "auteur": "Pampuco",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sempervivum_sp_Cima_Serpentera_Nord.png"
+      }
     },
     {
       "id": "sedum-yellow-cushion",
@@ -552,7 +818,14 @@
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
       "dernieres_actions": {},
-      "fiche": "sedum-yellow-cushion"
+      "fiche": "sedum-yellow-cushion",
+      "photo": {
+        "url": "photos/plantes/sedum-yellow-cushion.jpg",
+        "source": "wikimedia",
+        "auteur": "Internet Archive Book Images",
+        "licence": "No restrictions",
+        "page": "https://commons.wikimedia.org/wiki/File:Flower_grower%27s_guide_(1898)_(14597258927).jpg"
+      }
     }
   ],
   "fiches": {
@@ -3904,17 +4177,24 @@
     }
   ],
   "meteo": {
-    "alertes": [],
+    "alertes": [
+      {
+        "type": "orage",
+        "priority": "urgent",
+        "date": "2026-10-08",
+        "message": "⛈️ Orage/grêle prévu le 2026-10-08 — protéger les plantes"
+      }
+    ],
     "previsions": [
       {
         "date": "2026-10-08",
         "tmin": 10.6,
         "tmax": 17.7,
-        "precip_mm": 30.25,
+        "precip_mm": 28.35,
         "vent_kmh": 43.9,
-        "code": 80,
-        "label": "averses faibles",
-        "emoji": "🌦️"
+        "code": 95,
+        "label": "orage",
+        "emoji": "⛈️"
       },
       {
         "date": "2026-10-09",
@@ -6784,7 +7064,7 @@
     },
     {
       "plante": "hosta-2",
-      "nom": "Hosta (2e",
+      "nom": "Hosta (2e pied)",
       "pastilles": {
         "4": [
           {
