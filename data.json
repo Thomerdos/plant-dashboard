@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T22:54:50",
+  "generated_at": "2026-10-06T23:10:36",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -359,7 +359,8 @@
               "niveau_min": "ombre",
               "niveau_max": "mi-ombre"
             }
-          }
+          },
+          "abri_pluie": "partiel"
         },
         {
           "key": "etagere-2",
@@ -410,7 +411,8 @@
               "niveau_min": "ombre",
               "niveau_max": "plein-soleil"
             }
-          }
+          },
+          "abri_pluie": "partiel"
         },
         {
           "key": "etagere-3",
@@ -613,7 +615,7 @@
               "niveau_max": "soleil-filtre"
             }
           },
-          "abri_pluie": true
+          "abri_pluie": "complet"
         },
         {
           "key": "tables-angle",
