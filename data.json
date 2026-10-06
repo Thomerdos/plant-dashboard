@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T11:18:37",
+  "generated_at": "2026-10-06T13:29:47",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -4179,6 +4179,13 @@
   "meteo": {
     "alertes": [
       {
+        "type": "rafales",
+        "priority": "info",
+        "rafales_kmh": 51.5,
+        "date": "2026-10-08",
+        "message": "💨 Rafales jusqu'à 51.5 km/h le 2026-10-08 — rentrer les pots fragiles"
+      },
+      {
         "type": "orage",
         "priority": "urgent",
         "date": "2026-10-08",
@@ -4188,37 +4195,37 @@
     "previsions": [
       {
         "date": "2026-10-08",
-        "tmin": 10.6,
-        "tmax": 17.7,
-        "precip_mm": 28.35,
-        "vent_kmh": 43.9,
-        "code": 95,
-        "label": "orage",
+        "tmin": 11.9,
+        "tmax": 17.9,
+        "precip_mm": 38.8,
+        "vent_kmh": 51.5,
+        "code": 96,
+        "label": "orage avec grêle",
         "emoji": "⛈️"
       },
       {
         "date": "2026-10-09",
-        "tmin": 9.5,
-        "tmax": 16.1,
-        "precip_mm": 0.0,
-        "vent_kmh": 31.3,
-        "code": 3,
-        "label": "couvert",
-        "emoji": "☁️"
+        "tmin": 9.3,
+        "tmax": 15.6,
+        "precip_mm": 0.1,
+        "vent_kmh": 30.2,
+        "code": 61,
+        "label": "pluie faible",
+        "emoji": "🌧️"
       },
       {
         "date": "2026-10-10",
-        "tmin": 9.3,
-        "tmax": 19.1,
-        "precip_mm": 0.0,
-        "vent_kmh": 16.9,
+        "tmin": 11.4,
+        "tmax": 20.5,
+        "precip_mm": 0.3,
+        "vent_kmh": 19.8,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-11",
-        "tmin": 12.8,
+        "tmin": 12.2,
         "tmax": 19.6,
         "precip_mm": 0.0,
         "vent_kmh": 28.4,
