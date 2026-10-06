@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T18:08:03",
+  "generated_at": "2026-10-06T18:13:36",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -4625,25 +4625,17 @@
     }
   ],
   "meteo": {
-    "alertes": [
-      {
-        "type": "rafales",
-        "priority": "info",
-        "rafales_kmh": 50.0,
-        "date": "2026-10-08",
-        "message": "💨 Rafales jusqu'à 50 km/h le 2026-10-08 — rentrer les pots fragiles"
-      }
-    ],
+    "alertes": [],
     "previsions": [
       {
         "date": "2026-10-08",
         "tmin": 11.4,
-        "tmax": 18.0,
-        "precip_mm": 36.77,
-        "vent_kmh": 50.0,
-        "code": 81,
-        "label": "averses",
-        "emoji": "🌧️"
+        "tmax": 17.6,
+        "precip_mm": 34.95,
+        "vent_kmh": 47.5,
+        "code": 80,
+        "label": "averses faibles",
+        "emoji": "🌦️"
       },
       {
         "date": "2026-10-09",
