@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-10-06T13:29:47",
+  "generated_at": "2026-10-06T14:32:27",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
@@ -826,6 +826,21 @@
         "licence": "No restrictions",
         "page": "https://commons.wikimedia.org/wiki/File:Flower_grower%27s_guide_(1898)_(14597258927).jpg"
       }
+    },
+    {
+      "id": "monstera",
+      "nom": "Monstera",
+      "espece": "Monstera deliciosa",
+      "categorie": "ornementale",
+      "emplacement": "salon",
+      "contenant": "pot",
+      "quantite": null,
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": null,
+      "photo": null
     }
   ],
   "fiches": {
@@ -4054,19 +4069,6 @@
     {
       "priority": "semaine",
       "plant_ids": [
-        "agave-bouture-1",
-        "agave-bouture-2",
-        "agave-bouture-3",
-        "agave-bouture-4"
-      ],
-      "action": "hivernage",
-      "produit": null,
-      "message": "Hivernage — Agave (bouture, petit), Agave (bouture, petit), Agave (bouture, plus gros), Agave (bouture, plus gros) : protéger voile",
-      "urgence": "cette semaine"
-    },
-    {
-      "priority": "semaine",
-      "plant_ids": [
         "basilic-classique",
         "basilic-violet",
         "basilic-thai"
@@ -4195,9 +4197,9 @@
     "previsions": [
       {
         "date": "2026-10-08",
-        "tmin": 11.9,
+        "tmin": 12.3,
         "tmax": 17.9,
-        "precip_mm": 38.8,
+        "precip_mm": 40.68,
         "vent_kmh": 51.5,
         "code": 96,
         "label": "orage avec grêle",
@@ -4206,39 +4208,39 @@
       {
         "date": "2026-10-09",
         "tmin": 9.3,
-        "tmax": 15.6,
+        "tmax": 16.2,
         "precip_mm": 0.1,
-        "vent_kmh": 30.2,
+        "vent_kmh": 29.5,
         "code": 61,
         "label": "pluie faible",
         "emoji": "🌧️"
       },
       {
         "date": "2026-10-10",
-        "tmin": 11.4,
-        "tmax": 20.5,
-        "precip_mm": 0.3,
-        "vent_kmh": 19.8,
+        "tmin": 11.2,
+        "tmax": 21.4,
+        "precip_mm": 0.6,
+        "vent_kmh": 14.0,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-11",
-        "tmin": 12.2,
-        "tmax": 19.6,
+        "tmin": 12.1,
+        "tmax": 20.2,
         "precip_mm": 0.0,
-        "vent_kmh": 28.4,
+        "vent_kmh": 24.5,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-12",
-        "tmin": 7.9,
-        "tmax": 18.7,
+        "tmin": 7.6,
+        "tmax": 19.7,
         "precip_mm": 0.0,
-        "vent_kmh": 23.4,
+        "vent_kmh": 19.8,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
@@ -4354,18 +4356,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -4444,18 +4434,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -4519,18 +4497,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -4637,18 +4603,6 @@
           {
             "emoji": "🌱",
             "label": "bouturage"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -4760,18 +4714,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -4882,18 +4824,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -5003,18 +4933,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -5679,16 +5597,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -5753,18 +5661,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -5895,20 +5791,12 @@
           {
             "emoji": "✂️",
             "label": "taille"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ],
         "12": [
           {
             "emoji": "✂️",
             "label": "taille"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ],
         "6": [
@@ -6001,18 +5889,6 @@
           {
             "emoji": "✂️",
             "label": "taille"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -6404,18 +6280,6 @@
             "emoji": "🧺",
             "label": "récolte"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -6526,18 +6390,6 @@
             "emoji": "🧺",
             "label": "récolte"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -6647,18 +6499,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -6817,20 +6657,12 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ],
         "12": [
           {
             "emoji": "🪴",
             "label": "rempotage"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -6902,18 +6734,6 @@
             "emoji": "🧺",
             "label": "récolte"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -6984,18 +6804,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7053,18 +6861,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7124,18 +6920,6 @@
             "emoji": "🧺",
             "label": "récolte"
           }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "12": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7189,10 +6973,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ],
         "3": [
@@ -7203,12 +6983,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7248,18 +7022,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7297,18 +7059,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7355,18 +7105,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7499,22 +7237,12 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          },
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ],
         "3": [
           {
             "emoji": "🌱",
             "label": "bouturage"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7550,18 +7278,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7595,18 +7311,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7642,18 +7346,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7688,18 +7380,6 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
     },
@@ -7727,18 +7407,6 @@
           {
             "emoji": "🪴",
             "label": "rempotage"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
           }
         ]
       }
@@ -7768,20 +7436,13 @@
             "emoji": "🪴",
             "label": "rempotage"
           }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
         ]
       }
+    },
+    {
+      "plante": "monstera",
+      "nom": "Monstera",
+      "pastilles": {}
     }
   ],
   "stats": {
@@ -7868,6 +7529,7 @@
       "menthe-gingembre",
       "menthe-marocaine",
       "menthe-orange",
+      "monstera",
       "origan-dore",
       "persil",
       "petunias",
