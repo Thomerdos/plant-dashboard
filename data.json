@@ -1,11 +1,129 @@
 {
-  "generated_at": "2026-10-06T15:09:31",
+  "generated_at": "2026-10-06T16:23:34",
   "date": "2026-10-06",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
     "latitude": 45.233,
-    "longitude": 5.683
+    "longitude": 5.683,
+    "terrasse": {
+      "origine": [
+        6.5,
+        0.0
+      ],
+      "profondeur": 2.98,
+      "largeur": 5.74,
+      "zones": [
+        {
+          "key": "mur",
+          "label": "Au mur",
+          "sun": {
+            "printemps": "mi-ombre",
+            "ete": "mi-ombre",
+            "automne": "mi-ombre",
+            "hiver": "mi-ombre"
+          },
+          "distance": {
+            "debut": 0.0,
+            "fin": 0.4
+          }
+        },
+        {
+          "key": "soleil-direct",
+          "label": "Plein soleil",
+          "sun": {
+            "printemps": "plein-soleil",
+            "ete": "plein-soleil",
+            "automne": "plein-soleil",
+            "hiver": "plein-soleil"
+          },
+          "distance": {
+            "debut": 0.4,
+            "fin": 1.4
+          }
+        },
+        {
+          "key": "sous-pergola",
+          "label": "Sous la pergola",
+          "sun": {
+            "printemps": "soleil-filtre",
+            "ete": "soleil-filtre",
+            "automne": "soleil-filtre",
+            "hiver": "soleil-filtre"
+          },
+          "distance": {
+            "debut": 1.4,
+            "fin": 2.5
+          }
+        },
+        {
+          "key": "pied-rambarde",
+          "label": "Pied de rambarde",
+          "sun": {
+            "printemps": "mi-ombre",
+            "ete": "mi-ombre",
+            "automne": "mi-ombre",
+            "hiver": "soleil-filtre"
+          },
+          "distance": {
+            "debut": 2.5,
+            "fin": 2.98
+          }
+        },
+        {
+          "key": "dessus-rambarde",
+          "label": "Sur la rambarde",
+          "sun": {
+            "printemps": "plein-soleil",
+            "ete": "plein-soleil",
+            "automne": "plein-soleil",
+            "hiver": "soleil-filtre"
+          },
+          "rails": [
+            {
+              "x": [
+                9.2,
+                9.5
+              ],
+              "y": [
+                0.0,
+                5.7
+              ]
+            },
+            {
+              "x": [
+                6.5,
+                9.5
+              ],
+              "y": [
+                5.4,
+                5.7
+              ]
+            }
+          ],
+          "vent": "expose"
+        }
+      ],
+      "sous-table": {
+        "label": "Sous la table",
+        "rect": {
+          "x": [
+            7.5,
+            8.4
+          ],
+          "y": [
+            2.0,
+            3.5
+          ]
+        },
+        "sun": {
+          "printemps": "mi-ombre",
+          "ete": "ombre",
+          "automne": "mi-ombre",
+          "hiver": "mi-ombre"
+        }
+      }
+    }
   },
   "plantes": [
     {
@@ -16,6 +134,7 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -37,6 +156,7 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -58,6 +178,7 @@
       "emplacement": "terrasse",
       "contenant": "pot large individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -79,6 +200,7 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -100,6 +222,7 @@
       "emplacement": "terrasse",
       "contenant": "jardinière",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -121,6 +244,7 @@
       "emplacement": "terrasse",
       "contenant": "pot large individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -142,6 +266,7 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -163,6 +288,7 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -184,6 +310,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -205,6 +332,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -226,6 +354,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -247,6 +376,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -268,6 +398,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -289,6 +420,10 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": {
+        "x": 7.2,
+        "y": 4.5
+      },
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -310,6 +445,10 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": {
+        "x": 6.84,
+        "y": 2.72
+      },
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -331,6 +470,10 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": {
+        "x": 7.46,
+        "y": 5.44
+      },
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -352,6 +495,7 @@
       "emplacement": "terrasse",
       "contenant": "pot 8.5 L",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -373,6 +517,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -394,6 +539,7 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -415,6 +561,7 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 3,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -436,6 +583,7 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 2,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -457,6 +605,7 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 1,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -478,6 +627,7 @@
       "emplacement": "terrasse",
       "contenant": "jardinière",
       "quantite": 3,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -499,6 +649,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -520,6 +671,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -541,6 +693,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -562,6 +715,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -583,6 +737,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -604,6 +759,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -625,6 +781,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -646,6 +803,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -667,6 +825,7 @@
       "emplacement": "terrasse",
       "contenant": "bac 140 L (pied clématites)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -688,6 +847,7 @@
       "emplacement": "bureau-etagere-led",
       "contenant": "?",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -709,6 +869,7 @@
       "emplacement": "terrasse",
       "contenant": "petit pot",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -730,6 +891,7 @@
       "emplacement": "terrasse",
       "contenant": "petit pot",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -751,6 +913,7 @@
       "emplacement": "terrasse",
       "contenant": "pot plus gros",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -772,6 +935,7 @@
       "emplacement": "terrasse",
       "contenant": "pot plus gros",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -793,6 +957,7 @@
       "emplacement": "terrasse",
       "contenant": "pot (avec sedum)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -814,6 +979,7 @@
       "emplacement": "terrasse",
       "contenant": "pot (avec sempervivum)",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -835,6 +1001,7 @@
       "emplacement": "salon",
       "contenant": "pot",
       "quantite": null,
+      "position": null,
       "statut": "jamais",
       "jours_depuis_dernier_soin": null,
       "derniere_action": null,
@@ -4462,27 +4629,21 @@
       {
         "type": "rafales",
         "priority": "info",
-        "rafales_kmh": 51.5,
+        "rafales_kmh": 50.0,
         "date": "2026-10-08",
-        "message": "💨 Rafales jusqu'à 51.5 km/h le 2026-10-08 — rentrer les pots fragiles"
-      },
-      {
-        "type": "orage",
-        "priority": "urgent",
-        "date": "2026-10-08",
-        "message": "⛈️ Orage/grêle prévu le 2026-10-08 — protéger les plantes"
+        "message": "💨 Rafales jusqu'à 50 km/h le 2026-10-08 — rentrer les pots fragiles"
       }
     ],
     "previsions": [
       {
         "date": "2026-10-08",
         "tmin": 12.3,
-        "tmax": 17.9,
-        "precip_mm": 40.68,
-        "vent_kmh": 51.5,
-        "code": 96,
-        "label": "orage avec grêle",
-        "emoji": "⛈️"
+        "tmax": 18.0,
+        "precip_mm": 40.03,
+        "vent_kmh": 50.0,
+        "code": 81,
+        "label": "averses",
+        "emoji": "🌧️"
       },
       {
         "date": "2026-10-09",
