@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-06T23:10:36",
-  "date": "2026-10-06",
+  "generated_at": "2026-10-07T07:07:04",
+  "date": "2026-10-07",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -668,6 +668,56 @@
           }
         },
         {
+          "key": "sous-tables-angle",
+          "label": "À l'ombre des tables d'angle",
+          "type": "sol",
+          "emprise": {
+            "u": [
+              4.4,
+              5.74
+            ],
+            "v": [
+              0.7,
+              2.98
+            ]
+          },
+          "hauteur_feuillage": 0.3,
+          "lumiere": {
+            "printemps": {
+              "heures": 2.5,
+              "h_min": 0.0,
+              "h_max": 7.5,
+              "niveau": "mi-ombre",
+              "niveau_min": "ombre",
+              "niveau_max": "plein-soleil"
+            },
+            "ete": {
+              "heures": 2.5,
+              "h_min": 0.0,
+              "h_max": 7.7,
+              "niveau": "mi-ombre",
+              "niveau_min": "ombre",
+              "niveau_max": "plein-soleil"
+            },
+            "automne": {
+              "heures": 0.0,
+              "h_min": 0.0,
+              "h_max": 6.3,
+              "niveau": "ombre",
+              "niveau_min": "ombre",
+              "niveau_max": "plein-soleil"
+            },
+            "hiver": {
+              "heures": 0.0,
+              "h_min": 0.0,
+              "h_max": 6.3,
+              "niveau": "ombre",
+              "niveau_min": "ombre",
+              "niveau_max": "plein-soleil"
+            }
+          }
+        },
+        {
           "key": "rambarde-se",
           "label": "Rambarde SE",
           "type": "rambarde",
@@ -774,7 +824,7 @@
           "emprise": {
             "u": [
               0.0,
-              3.8
+              3.7
             ],
             "v": [
               0.0,
@@ -784,16 +834,16 @@
           "hauteur_feuillage": 0.3,
           "lumiere": {
             "printemps": {
-              "heures": 3.4,
-              "h_min": 1.5,
+              "heures": 3.3,
+              "h_min": 1.4,
               "h_max": 5.8,
               "niveau": "soleil-filtre",
-              "niveau_min": "mi-ombre",
+              "niveau_min": "ombre",
               "niveau_max": "plein-soleil"
             },
             "ete": {
-              "heures": 3.4,
-              "h_min": 1.7,
+              "heures": 3.3,
+              "h_min": 1.5,
               "h_max": 5.9,
               "niveau": "soleil-filtre",
               "niveau_min": "mi-ombre",
@@ -823,7 +873,7 @@
           "type": "sol",
           "emprise": {
             "u": [
-              3.8,
+              3.7,
               5.4
             ],
             "v": [
@@ -834,8 +884,8 @@
           "hauteur_feuillage": 0.3,
           "lumiere": {
             "printemps": {
-              "heures": 5.0,
-              "h_min": 3.0,
+              "heures": 5.1,
+              "h_min": 3.8,
               "h_max": 6.3,
               "niveau": "plein-soleil",
               "niveau_min": "soleil-filtre",
@@ -843,24 +893,24 @@
             },
             "ete": {
               "heures": 5.0,
-              "h_min": 3.1,
-              "h_max": 6.3,
+              "h_min": 3.7,
+              "h_max": 6.4,
               "niveau": "plein-soleil",
               "niveau_min": "soleil-filtre",
               "niveau_max": "plein-soleil"
             },
             "automne": {
-              "heures": 0.3,
+              "heures": 0.8,
               "h_min": 0.0,
-              "h_max": 3.5,
+              "h_max": 4.3,
               "niveau": "ombre",
               "niveau_min": "ombre",
               "niveau_max": "soleil-filtre"
             },
             "hiver": {
-              "heures": 0.0,
+              "heures": 0.8,
               "h_min": 0.0,
-              "h_max": 3.3,
+              "h_max": 4.0,
               "niveau": "ombre",
               "niveau_min": "ombre",
               "niveau_max": "soleil-filtre"
@@ -874,7 +924,7 @@
           "emprise": {
             "u": [
               0.4,
-              4.5
+              4.4
             ],
             "v": [
               2.1,
@@ -884,7 +934,7 @@
           "hauteur_feuillage": 0.3,
           "lumiere": {
             "printemps": {
-              "heures": 1.1,
+              "heures": 1.3,
               "h_min": 0.0,
               "h_max": 3.3,
               "niveau": "ombre",
@@ -892,10 +942,10 @@
               "niveau_max": "soleil-filtre"
             },
             "ete": {
-              "heures": 1.4,
+              "heures": 1.5,
               "h_min": 0.1,
               "h_max": 3.4,
-              "niveau": "ombre",
+              "niveau": "mi-ombre",
               "niveau_min": "ombre",
               "niveau_max": "soleil-filtre"
             },
@@ -30645,15 +30695,15 @@
       "emplacement": "terrasse",
       "contenant": "pot large individuel",
       "quantite": null,
-      "zone": "rambarde-se",
+      "zone": "table",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "mi-ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -30661,9 +30711,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "mi-ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -30710,35 +30760,41 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
-      "zone": "rambarde-se",
+      "zone": "etagere-2",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "ok",
+          "statut": "deplacer",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "mi-ombre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "rambarde-se",
+            "rambarde-so"
+          ]
         },
         "ete": {
-          "statut": "ok",
+          "statut": "deplacer",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "mi-ombre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "rambarde-se",
+            "rambarde-so"
+          ]
         },
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -30746,9 +30802,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -30775,60 +30831,48 @@
       "emplacement": "terrasse",
       "contenant": "jardinière",
       "quantite": null,
-      "zone": "rambarde-se",
+      "zone": "sous-tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         },
         "hiver": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         }
       },
       "statut": "jamais",
@@ -30852,41 +30896,35 @@
       "emplacement": "terrasse",
       "contenant": "pot large individuel",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "sous-tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -30894,9 +30932,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -30923,41 +30961,35 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "sous-tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "mi-ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -30965,9 +30997,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -30994,15 +31026,15 @@
       "emplacement": "terrasse",
       "contenant": "pot individuel",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "table",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "mi-ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31010,9 +31042,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "mi-ombre",
             "max": "plein-soleil",
-            "median": "plein-soleil"
+            "median": "soleil-filtre"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31020,7 +31052,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -31030,7 +31062,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -31059,15 +31091,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31075,9 +31107,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31085,9 +31117,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31095,9 +31127,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31124,15 +31156,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31140,9 +31172,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31150,9 +31182,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31160,9 +31192,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31189,15 +31221,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31205,9 +31237,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31215,9 +31247,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31225,9 +31257,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31254,15 +31286,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "etagere-2",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "min": "ombre",
+            "max": "mi-ombre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -31270,9 +31302,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "min": "ombre",
+            "max": "mi-ombre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
           "mieux_en": []
@@ -31319,15 +31351,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "rambarde-so",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31335,9 +31367,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31345,9 +31377,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31355,9 +31387,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31384,15 +31416,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "sol-tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31400,32 +31432,38 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
         },
         "automne": {
-          "statut": "ok",
+          "statut": "surveiller",
           "niveau_zone": {
             "min": "ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
         },
         "hiver": {
-          "statut": "ok",
+          "statut": "surveiller",
           "niveau_zone": {
             "min": "ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
         }
       },
       "statut": "jamais",
@@ -31455,7 +31493,7 @@
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "ombre",
             "max": "plein-soleil",
             "median": "soleil-filtre"
           },
@@ -31514,15 +31552,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "sol-tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31530,32 +31568,38 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
         },
         "automne": {
-          "statut": "ok",
+          "statut": "surveiller",
           "niveau_zone": {
             "min": "ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
         },
         "hiver": {
-          "statut": "ok",
+          "statut": "surveiller",
           "niveau_zone": {
             "min": "ombre",
-            "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "plein-soleil",
-          "mieux_en": []
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
         }
       },
       "statut": "jamais",
@@ -31644,15 +31688,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31660,9 +31704,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31670,9 +31714,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31680,9 +31724,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31709,15 +31753,15 @@
       "emplacement": "terrasse",
       "contenant": "?",
       "quantite": null,
-      "zone": "sol-jardiniere",
+      "zone": "tables-angle",
       "piece": "terrasse",
       "placement": {
         "printemps": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31725,9 +31769,9 @@
         "ete": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "mi-ombre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31735,9 +31779,9 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31745,9 +31789,9 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "ombre",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
-            "median": "soleil-filtre"
+            "median": "plein-soleil"
           },
           "besoin": "plein-soleil",
           "mieux_en": []
@@ -31774,60 +31818,48 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 3,
-      "zone": "rambarde-so",
+      "zone": "etagere-3",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         },
         "hiver": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         }
       },
       "statut": "jamais",
@@ -31851,60 +31883,48 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 2,
-      "zone": "rambarde-so",
+      "zone": "etagere-3",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         },
         "hiver": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         }
       },
       "statut": "jamais",
@@ -31928,60 +31948,48 @@
       "emplacement": "terrasse",
       "contenant": "jardinière fraises",
       "quantite": 1,
-      "zone": "rambarde-so",
+      "zone": "etagere-3",
       "piece": "terrasse",
       "placement": {
         "printemps": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-milieu",
-            "etagere-4"
-          ]
+          "mieux_en": []
         },
         "ete": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
+            "min": "ombre",
+            "max": "soleil-filtre",
+            "median": "ombre"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "etagere-4",
-            "jardiniere"
-          ]
+          "mieux_en": []
         },
         "automne": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         },
         "hiver": {
-          "statut": "surveiller",
+          "statut": "ok",
           "niveau_zone": {
-            "min": "plein-soleil",
+            "min": "soleil-filtre",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
           "besoin": "mi-ombre",
-          "mieux_en": [
-            "chambre-1-fenetre",
-            "sejour-baies"
-          ]
+          "mieux_en": []
         }
       },
       "statut": "jamais",
@@ -31995,71 +32003,6 @@
         "auteur": "Agnieszka Kwiecień, Nova",
         "licence": "CC BY-SA 3.0",
         "page": "https://commons.wikimedia.org/wiki/File:Owoce_Truskawka.jpg"
-      }
-    },
-    {
-      "id": "petunias",
-      "nom": "Pétunias",
-      "espece": "Petunia x hybrida",
-      "categorie": "ornementale",
-      "emplacement": "terrasse",
-      "contenant": "jardinière",
-      "quantite": 3,
-      "zone": "rambarde-so",
-      "piece": "terrasse",
-      "placement": {
-        "printemps": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "plein-soleil",
-          "mieux_en": []
-        },
-        "ete": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "plein-soleil",
-          "mieux_en": []
-        },
-        "automne": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "plein-soleil",
-          "mieux_en": []
-        },
-        "hiver": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "plein-soleil",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "plein-soleil",
-          "mieux_en": []
-        }
-      },
-      "statut": "jamais",
-      "jours_depuis_dernier_soin": null,
-      "derniere_action": null,
-      "dernieres_actions": {},
-      "fiche": "petunia-x-hybrida",
-      "photo": {
-        "url": "photos/plantes/petunia-x-hybrida.jpg",
-        "source": "wikimedia",
-        "auteur": "kallerna",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Petunia_x_hybrida.JPG"
       }
     },
     {
@@ -32190,71 +32133,6 @@
         "auteur": "Internet Archive Book Images",
         "licence": "No restrictions",
         "page": "https://commons.wikimedia.org/wiki/File:Design_and_improvement_of_school_grounds_(1921)_(14596895668).jpg"
-      }
-    },
-    {
-      "id": "geranium-vivace",
-      "nom": "Géranium vivace",
-      "espece": "Geranium sp.",
-      "categorie": "vivace",
-      "emplacement": "terrasse",
-      "contenant": "bac 140 L (pied clématites)",
-      "quantite": null,
-      "zone": "jardiniere",
-      "piece": "terrasse",
-      "placement": {
-        "printemps": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "ombre",
-            "max": "mi-ombre",
-            "median": "mi-ombre"
-          },
-          "besoin": "mi-ombre",
-          "mieux_en": []
-        },
-        "ete": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "ombre",
-            "max": "mi-ombre",
-            "median": "mi-ombre"
-          },
-          "besoin": "mi-ombre",
-          "mieux_en": []
-        },
-        "automne": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "soleil-filtre",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "mi-ombre",
-          "mieux_en": []
-        },
-        "hiver": {
-          "statut": "ok",
-          "niveau_zone": {
-            "min": "soleil-filtre",
-            "max": "plein-soleil",
-            "median": "plein-soleil"
-          },
-          "besoin": "mi-ombre",
-          "mieux_en": []
-        }
-      },
-      "statut": "jamais",
-      "jours_depuis_dernier_soin": null,
-      "derniere_action": null,
-      "dernieres_actions": {},
-      "fiche": "geranium",
-      "photo": {
-        "url": "photos/plantes/geranium.jpg",
-        "source": "wikimedia",
-        "auteur": "Alvesgaspar",
-        "licence": "CC BY-SA 3.0",
-        "page": "https://commons.wikimedia.org/wiki/File:Geranium_February_2008-1.jpg"
       }
     },
     {
@@ -32732,7 +32610,7 @@
       "emplacement": "terrasse",
       "contenant": "petit pot",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-so",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -32758,7 +32636,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32768,7 +32646,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32797,7 +32675,7 @@
       "emplacement": "terrasse",
       "contenant": "petit pot",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-so",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -32823,7 +32701,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32833,7 +32711,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32862,7 +32740,7 @@
       "emplacement": "terrasse",
       "contenant": "pot plus gros",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-so",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -32888,7 +32766,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32898,7 +32776,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32927,7 +32805,7 @@
       "emplacement": "terrasse",
       "contenant": "pot plus gros",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-so",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -32953,7 +32831,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32963,7 +32841,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -32992,7 +32870,7 @@
       "emplacement": "terrasse",
       "contenant": "pot (avec sedum)",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-se",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -33018,7 +32896,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -33028,7 +32906,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -33057,7 +32935,7 @@
       "emplacement": "terrasse",
       "contenant": "pot (avec sempervivum)",
       "quantite": null,
-      "zone": "tables-angle",
+      "zone": "rambarde-se",
       "piece": "terrasse",
       "placement": {
         "printemps": {
@@ -33083,7 +32961,7 @@
         "automne": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -33093,7 +32971,7 @@
         "hiver": {
           "statut": "ok",
           "niveau_zone": {
-            "min": "soleil-filtre",
+            "min": "plein-soleil",
             "max": "plein-soleil",
             "median": "plein-soleil"
           },
@@ -33177,6 +33055,591 @@
         "auteur": "JonRichfield",
         "licence": "CC BY-SA 3.0",
         "page": "https://commons.wikimedia.org/wiki/File:Cataphylls_on_Philodendron_3471s.jpg"
+      }
+    },
+    {
+      "id": "citronnelle",
+      "nom": "Citronnelle",
+      "espece": "Cymbopogon citratus",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "2 pots",
+      "quantite": 2,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "cymbopogon-citratus",
+      "photo": {
+        "url": "photos/plantes/cymbopogon-citratus.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY 2.0",
+        "page": "https://commons.wikimedia.org/wiki/File:YosriNov04Pokok_Serai.JPG"
+      }
+    },
+    {
+      "id": "geranium-odorant",
+      "nom": "Géranium odorant",
+      "espece": "Pelargonium graveolens",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "2 pots",
+      "quantite": 2,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "pelargonium-graveolens",
+      "photo": {
+        "url": "photos/plantes/pelargonium-graveolens.jpg",
+        "source": "wikimedia",
+        "auteur": "Didier Descouens",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:(MHNT)_Pelargonium_graveolens_flower_and_leaves.jpg"
+      }
+    },
+    {
+      "id": "geranium-fleurs-rouges",
+      "nom": "Géranium à fleurs rouges",
+      "espece": "Pelargonium x hortorum",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "pelargonium-x-hortorum",
+      "photo": {
+        "url": "photos/plantes/pelargonium-x-hortorum.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Fiore_di_geranio.JPG"
+      }
+    },
+    {
+      "id": "sarracenia-flava",
+      "nom": "Sarracenia flava",
+      "espece": "Sarracenia flava",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sarracenia-flava",
+      "photo": {
+        "url": "photos/plantes/sarracenia-flava.jpg",
+        "source": "wikimedia",
+        "auteur": "Mickaël Schauli",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sarracenia_flava_L._var._atropurpurea_-_2_-_par_Mickael_Schauli.jpg"
+      }
+    },
+    {
+      "id": "sarracenia-leucophylla",
+      "nom": "Sarracenia leucophylla",
+      "espece": "Sarracenia leucophylla",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sarracenia-leucophylla",
+      "photo": {
+        "url": "photos/plantes/sarracenia-leucophylla.jpg",
+        "source": "wikimedia",
+        "auteur": "",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sarracenia_leucophylla0.jpg"
+      }
+    },
+    {
+      "id": "sarracenia-purpurea",
+      "nom": "Sarracenia pourpre",
+      "espece": "Sarracenia purpurea",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sarracenia-purpurea",
+      "photo": {
+        "url": "photos/plantes/sarracenia-purpurea.jpg",
+        "source": "wikimedia",
+        "auteur": "Pouzin Olivier",
+        "licence": "CC BY 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sarracenia_purpurosa_france_2007_-_2.jpg"
+      }
+    },
+    {
+      "id": "misere-pourpre",
+      "nom": "Misère pourpre",
+      "espece": "Tradescantia pallida",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "tradescantia-pallida",
+      "photo": {
+        "url": "photos/plantes/tradescantia-pallida.jpg",
+        "source": "wikimedia",
+        "auteur": "KENPEI",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Tradescantia_pallida_Purpurea2.jpg"
+      }
+    },
+    {
+      "id": "lavande-naine",
+      "nom": "Lavande naine",
+      "espece": "Lavandula angustifolia",
+      "categorie": "aromatique",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "tables-angle",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "soleil-filtre",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "soleil-filtre",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "lavandula-angustifolia",
+      "photo": {
+        "url": "photos/plantes/lavandula-angustifolia.jpg",
+        "source": "wikimedia",
+        "auteur": "Sten Porse",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Lavandula-angustifolia-flowering.JPG"
+      }
+    },
+    {
+      "id": "cactus-cornichon",
+      "nom": "Cactus cornichon",
+      "espece": "Echinopsis chamaecereus",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot",
+      "quantite": null,
+      "zone": "sous-table",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "echinopsis-chamaecereus",
+      "photo": {
+        "url": "photos/plantes/echinopsis-chamaecereus.jpg",
+        "source": "wikimedia",
+        "auteur": "Toni Gürke",
+        "licence": "Public domain",
+        "page": "https://commons.wikimedia.org/wiki/File:Echinopsis_chamaecereus_BlKakteenT168.jpg"
       }
     }
   ],
@@ -35302,92 +35765,6 @@
       "sources_notes": "fraisiers en jardinière: renouveler par stolons tous les 2-3 ans car la production décline",
       "astuce": "garder le terreau frais sans détremper; la jardinière sèche vite l'été"
     },
-    "petunias": {
-      "espece": "Petunia x hybrida",
-      "noms": [
-        "Pétunias"
-      ],
-      "type": "annuelle",
-      "rusticite_min_c": 0.0,
-      "chaleur_max_c": 35.0,
-      "exposition": "plein soleil",
-      "besoin_lumiere": {
-        "intensite": "plein-soleil",
-        "tolerance": "stricte",
-        "saison_critique": []
-      },
-      "arrosage": {
-        "frequence_ete_jours": 1,
-        "frequence_hiver_jours": 7,
-        "notes": "les pétunias en jardinière sèchent très vite l'été: arroser chaque jour par forte chaleur, sans mouiller les fleurs"
-      },
-      "engrais": [
-        {
-          "mois": [
-            5,
-            6,
-            7,
-            8,
-            9
-          ],
-          "frequence_jours": 10,
-          "produit": "engrais_geranium",
-          "notes": "potasse pour une floraison continue; les pétunias sont très gourmands, arroser souvent et fertiliser régulièrement"
-        }
-      ],
-      "taille": [
-        {
-          "mois": [
-            7,
-            8
-          ],
-          "type": "rabattre les tiges trop longues d'un tiers",
-          "notes": "les pétunias retombants s'épuisent: une taille de rajeunissement relance la floraison"
-        }
-      ],
-      "recolte": {
-        "mois": [
-          5,
-          6,
-          7
-        ],
-        "notes": "couper régulièrement les fleurs fanées (avec leur pédoncule) pour prolonger la floraison"
-      },
-      "bouturage": [
-        {
-          "mois": [
-            8,
-            9
-          ],
-          "methode": "tige de 10 cm sans fleur dans l'eau, puis en pot",
-          "notes": "bouturer fin d'été pour garder les pétunias à l'intérieur l'hiver si souhaité"
-        }
-      ],
-      "rempotage": {
-        "tous_les_ans": 1,
-        "mois": [
-          3,
-          4
-        ]
-      },
-      "hivernage": {
-        "action": "fin de culture : arracher et composter; on peut garder une bouture en intérieur lumineux",
-        "seuil_c": 0.0,
-        "mois": [
-          10,
-          11
-        ]
-      },
-      "parasites": [
-        {
-          "nom": "pucerons",
-          "traitement": "savon_noir"
-        }
-      ],
-      "confiance": "haute",
-      "sources_notes": "pétunias souvent traités comme annuelles en jardinière; fin de cycle en octobre",
-      "astuce": "les pétunias en jardinière sèchent très vite l'été: arroser chaque jour par forte chaleur, sans mouiller les fleurs"
-    },
     "clematite-blanche": {
       "espece": "Clematis",
       "noms": [
@@ -35581,93 +35958,6 @@
       "confiance": "moyenne",
       "sources_notes": "identifié par l'utilisateur comme Lonicera chinensis (a priori, à confirmer); soins de grimpante rustique semi-persistante",
       "astuce": "pied frais sans excès, pailler la base du bac 140 L; tolère la mi-ombre de la pergola"
-    },
-    "geranium-vivace": {
-      "espece": "Geranium",
-      "noms": [
-        "Géranium vivace"
-      ],
-      "type": "vivace",
-      "rusticite_min_c": -15.0,
-      "chaleur_max_c": 40.0,
-      "exposition": "mi-ombre",
-      "besoin_lumiere": {
-        "intensite": "mi-ombre",
-        "tolerance": "tolérante",
-        "saison_critique": [
-          "ete"
-        ]
-      },
-      "arrosage": {
-        "frequence_ete_jours": 3,
-        "frequence_hiver_jours": 10,
-        "notes": "terreau frais mais drainé, sans eau stagnante"
-      },
-      "engrais": [
-        {
-          "mois": [
-            4,
-            5,
-            6
-          ],
-          "frequence_jours": 30,
-          "produit": "engrais_geranium",
-          "notes": "dose légère au printemps, suffisante pour le pied des clématites"
-        }
-      ],
-      "taille": [
-        {
-          "mois": [
-            7,
-            8
-          ],
-          "type": "couper les fleurs fanées",
-          "notes": "supprimer régulièrement les fleurs fanées (et la tête) pour prolonger la floraison"
-        }
-      ],
-      "recolte": {
-        "mois": [
-          5,
-          6,
-          7,
-          8
-        ],
-        "notes": "floraison décorative du printemps à l'été"
-      },
-      "bouturage": [
-        {
-          "mois": [
-            3,
-            4
-          ],
-          "methode": "division de la touffe",
-          "notes": "diviser la touffe tous les 3-4 ans au printemps pour la rajeunir et la multiplier"
-        }
-      ],
-      "rempotage": {
-        "tous_les_ans": 3,
-        "mois": [
-          3,
-          4
-        ]
-      },
-      "hivernage": {
-        "action": "rien (vivace rustique; rabat les tiges sèches au printemps)",
-        "seuil_c": -10.0,
-        "mois": [
-          11,
-          12
-        ]
-      },
-      "parasites": [
-        {
-          "nom": "pucerons",
-          "traitement": "savon_noir"
-        }
-      ],
-      "confiance": "moyenne",
-      "sources_notes": "espèce non précisée (Geranium sp., géranium vivace de pied); la division de touffe est la méthode de multiplication fiable pour toutes les espèces",
-      "astuce": "terreau frais mais drainé, sans eau stagnante"
     },
     "hosta": {
       "espece": "Hosta",
@@ -36663,6 +36953,675 @@
       "confiance": "haute",
       "sources_notes": "plante d'intérieur classique, lumière vive indirecte, jamais de soleil direct brûlant",
       "astuce": "laisser sécher le terreau en surface entre 2 arrosages; arroser moins en hiver; brumiser le feuillage si air sec"
+    },
+    "citronnelle": {
+      "espece": "Cymbopogon citratus",
+      "noms": [
+        "Citronnelle",
+        "Verveine des Indes"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "gourmande en eau l'été, terreau maintenu frais ; réduire nettement en intérieur l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_plantes_vertes",
+          "notes": "graminée gourmande en azote : engrais feuillage régulier"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "type": "rabattre les touffes et retirer les tiges sèches",
+          "notes": "nettoyage de printemps"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9,
+          10
+        ],
+        "notes": "couper les tiges à la base selon le besoin (infusion, plats asiatiques)"
+      },
+      "bouturage": [],
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "araignées rouges",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "gélive (Cymbopogon citratus) : rentrer avant les 5 °C",
+      "astuce": "gourmande en eau l'été, terreau maintenu frais ; réduire nettement en intérieur l'hiver"
+    },
+    "geranium-odorant": {
+      "espece": "Pelargonium graveolens",
+      "noms": [
+        "Géranium odorant",
+        "Géranium rosat"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "tolérante",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "laisser sécher le terreau entre deux arrosages ; craint l'excès d'eau"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 21,
+          "produit": "engrais_geranium",
+          "notes": "floraison et feuillage parfumé"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "type": "rabattre d'un tiers",
+          "notes": "taille de printemps pour un port compact"
+        }
+      ],
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6,
+            8,
+            9
+          ],
+          "methode": "tige 10 cm à l'étouffée ou dans l'eau",
+          "notes": "reprise facile"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Pelargonium graveolens = géranium odorant/rosat (espèce déduite, à confirmer)",
+      "astuce": "laisser sécher le terreau entre deux arrosages ; craint l'excès d'eau"
+    },
+    "geranium-fleurs-rouges": {
+      "espece": "Pelargonium x hortorum",
+      "noms": [
+        "Géranium à fleurs rouges",
+        "Géranium zonal"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "tolérante",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 2,
+        "frequence_hiver_jours": 10,
+        "notes": "laisser sécher entre deux arrosages ; sensible à l'excès d'eau"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "frequence_jours": 14,
+          "produit": "engrais_geranium",
+          "notes": "potasse pour une floraison continue"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            3,
+            4
+          ],
+          "type": "rabattre d'un tiers",
+          "notes": "retirer fleurs fanées et tiges étiolées au fil de la saison"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          5,
+          6,
+          7,
+          8,
+          9
+        ],
+        "notes": "supprimer les fleurs fanées pour relancer la floraison"
+      },
+      "bouturage": [
+        {
+          "mois": [
+            5,
+            6,
+            8,
+            9
+          ],
+          "methode": "tige 10 cm",
+          "notes": "reprise facile"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "aleurodes",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Pelargonium zonal (géranium des fleuristes), gélif : rentrer avant les 5 °C",
+      "astuce": "laisser sécher entre deux arrosages ; sensible à l'excès d'eau"
+    },
+    "sarracenia-flava": {
+      "espece": "Sarracenia flava",
+      "noms": [
+        "Sarracenia flava"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 1,
+        "frequence_hiver_jours": 7,
+        "notes": "tourbe toujours détrempée en été : pot posé sur soucoupe d'eau. Eau de pluie ou déminéralisée uniquement (jamais d'eau du robinet calcaire)."
+      },
+      "engrais": [],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "couper les urnes sèches",
+          "notes": "retirer les urnes brunes de l'hiver"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ],
+        "notes": "tourbe blonde + sable, jamais de terreau enrichi"
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -12.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "reste dehors, tourbe humide mais moins détrempée l'hiver"
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "plante carnivore : AUCUN engrais, eau non calcaire, plein soleil, tourbe acide",
+      "astuce": "tourbe toujours détrempée en été : pot posé sur soucoupe d'eau. Eau de pluie ou déminéralisée uniquement (jamais d'eau du robinet calcaire)."
+    },
+    "sarracenia-leucophylla": {
+      "espece": "Sarracenia leucophylla",
+      "noms": [
+        "Sarracenia leucophylla"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -10.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 1,
+        "frequence_hiver_jours": 7,
+        "notes": "tourbe toujours détrempée en été (soucoupe d'eau) ; eau de pluie ou déminéralisée uniquement"
+      },
+      "engrais": [],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "couper les urnes sèches",
+          "notes": "nettoyage de fin d'hiver"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ],
+        "notes": "tourbe blonde + sable, sans engrais"
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -8.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "reste dehors, tourbe humide mais moins détrempée"
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "plante carnivore : pas d'engrais, eau non calcaire, plein soleil",
+      "astuce": "tourbe toujours détrempée en été (soucoupe d'eau) ; eau de pluie ou déminéralisée uniquement"
+    },
+    "sarracenia-purpurea": {
+      "espece": "Sarracenia purpurea",
+      "noms": [
+        "Sarracenia pourpre"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 1,
+        "frequence_hiver_jours": 7,
+        "notes": "tourbe toujours détrempée (soucoupe d'eau) ; eau de pluie ou déminéralisée uniquement"
+      },
+      "engrais": [],
+      "taille": [
+        {
+          "mois": [
+            3
+          ],
+          "type": "couper les feuilles sèches",
+          "notes": "nettoyage de printemps"
+        }
+      ],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ],
+        "notes": "tourbe blonde + sable"
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -18.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique, reste dehors"
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "plante carnivore très rustique : pas d'engrais, eau non calcaire",
+      "astuce": "tourbe toujours détrempée (soucoupe d'eau) ; eau de pluie ou déminéralisée uniquement"
+    },
+    "misere-pourpre": {
+      "espece": "Tradescantia pallida",
+      "noms": [
+        "Misère pourpre",
+        "Éphémère pourpre"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "tolérante",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 10,
+        "notes": "tolère la sécheresse, laisser sécher entre deux arrosages ; pourpre plus intense en plein soleil"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8
+          ],
+          "frequence_jours": 30,
+          "produit": "engrais_plantes_vertes",
+          "notes": "apport léger"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "type": "pincer les tiges",
+          "notes": "pincer régulièrement pour garder un port dense"
+        }
+      ],
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5,
+            6,
+            7,
+            8,
+            9
+          ],
+          "methode": "tige dans l'eau",
+          "notes": "racines en quelques jours, bouturage très facile"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rentrer en intérieur lumineux hors gel",
+        "seuil_c": 5.0,
+        "mois": [
+          10,
+          11
+        ]
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Tradescantia pallida, gélive : rentrer avant les 5 °C",
+      "astuce": "tolère la sécheresse, laisser sécher entre deux arrosages ; pourpre plus intense en plein soleil"
+    },
+    "lavande-naine": {
+      "espece": "Lavandula angustifolia",
+      "noms": [
+        "Lavande naine",
+        "Lavande vraie"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 38.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 3,
+        "frequence_hiver_jours": 14,
+        "notes": "très sobre : laisser bien sécher entre deux arrosages, craint l'excès d'eau"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4
+          ],
+          "frequence_jours": 90,
+          "produit": "engrais_granule_universel",
+          "notes": "peu gourmande, éviter l'excès d'azote qui nuit à la floraison"
+        }
+      ],
+      "taille": [
+        {
+          "mois": [
+            8,
+            9
+          ],
+          "type": "tailler après floraison",
+          "notes": "rabattre légèrement pour garder un port compact"
+        },
+        {
+          "mois": [
+            3
+          ],
+          "type": "taille légère de nettoyage",
+          "notes": "retirer le bois mort sans tailler dans le vieux bois"
+        }
+      ],
+      "recolte": {
+        "mois": [
+          6,
+          7,
+          8
+        ],
+        "notes": "fleurs pour sachets, infusion, cuisine"
+      },
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -12.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "rustique, reste dehors ; pot drainé pour éviter l'humidité hivernale"
+      },
+      "parasites": [
+        {
+          "nom": "pucerons",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "lavande vraie naine (espèce déduite, variété à confirmer)",
+      "astuce": "très sobre : laisser bien sécher entre deux arrosages, craint l'excès d'eau"
+    },
+    "cactus-cornichon": {
+      "espece": "Echinopsis chamaecereus",
+      "noms": [
+        "Cactus cornichon"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -7.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "tolérante",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 7,
+        "frequence_hiver_jours": 30,
+        "notes": "arroser quand le substrat est sec (avril-septembre) ; hiver : repos au sec, ne pas arroser d'octobre à mars"
+      },
+      "engrais": [
+        {
+          "mois": [
+            5,
+            6,
+            7
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand, dose très diluée"
+        }
+      ],
+      "taille": [],
+      "bouturage": [
+        {
+          "mois": [
+            4,
+            5,
+            6
+          ],
+          "methode": "séparation des rejets",
+          "notes": "rejets autour de la souche"
+        }
+      ],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          4,
+          5
+        ],
+        "notes": "terreau cactées très drainant"
+      },
+      "hivernage": {
+        "action": "protéger du gel / garder au sec au frais (2-10 °C)",
+        "seuil_c": 2.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "repos au froid et au sec indispensable pour la floraison"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles farineuses",
+          "traitement": "savon_noir"
+        },
+        {
+          "nom": "araignées rouges",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Echinopsis chamaecereus (syn. Chamaecereus silvestrii) = cactus cornichon",
+      "astuce": "arroser quand le substrat est sec (avril-septembre) ; hiver : repos au sec, ne pas arroser d'octobre à mars"
     }
   },
   "todo": [
@@ -36691,21 +37650,24 @@
     {
       "priority": "semaine",
       "plant_ids": [
-        "combava"
+        "citronnelle",
+        "geranium-odorant",
+        "geranium-fleurs-rouges",
+        "misere-pourpre"
       ],
       "action": "hivernage",
       "produit": null,
-      "message": "Hivernage — Combava : rentrer avant 8 °C - pas de pièce non chauffée dispo : pièce chauffée lumineuse (fenêtre la plus lumineuse), brumiser le feuillage, arrosage espacé",
+      "message": "Hivernage — Citronnelle, Géranium odorant, Géranium à fleurs rouges, Misère pourpre : rentrer en intérieur lumineux hors gel",
       "urgence": "cette semaine"
     },
     {
       "priority": "semaine",
       "plant_ids": [
-        "petunias"
+        "combava"
       ],
       "action": "hivernage",
       "produit": null,
-      "message": "Hivernage — Pétunias : fin de culture : arracher et composter; on peut garder une bouture en intérieur lumineux",
+      "message": "Hivernage — Combava : rentrer avant 8 °C - pas de pièce non chauffée dispo : pièce chauffée lumineuse (fenêtre la plus lumineuse), brumiser le feuillage, arrosage espacé",
       "urgence": "cette semaine"
     },
     {
@@ -36780,79 +37742,33 @@
         "fraisier-inconnu",
         "fraisier-gariguette",
         "fraisier-mara-des-bois",
-        "boutures-basilic"
+        "boutures-basilic",
+        "citronnelle"
       ],
       "action": "recolte",
       "produit": null,
-      "message": "Récolte possible : Thym vulgaire, Thym citron, Ciboulette, Menthe marocaine, Menthe gingembre, Menthe orange, Sauge ananas, Basilic classique, Basilic violet, Basilic thaï, Persil, Combava, Piment de Cayenne, Piment pili-pili, Piment Lila Luzi, Fraisiers (variété ?), Fraisier Gariguette, Fraisier Mara des Bois, Boutures de basilic (détail à venir)",
+      "message": "Récolte possible : Thym vulgaire, Thym citron, Ciboulette, Menthe marocaine, Menthe gingembre, Menthe orange, Sauge ananas, Basilic classique, Basilic violet, Basilic thaï, Persil, Combava, Piment de Cayenne, Piment pili-pili, Piment Lila Luzi, Fraisiers (variété ?), Fraisier Gariguette, Fraisier Mara des Bois, Boutures de basilic (détail à venir), Citronnelle",
       "urgence": "info"
     }
   ],
   "meteo": {
-    "alertes": [
-      {
-        "type": "rafales",
-        "priority": "info",
-        "rafales_kmh": 51.5,
-        "date": "2026-10-08",
-        "message": "💨 Rafales jusqu'à 51.5 km/h le 2026-10-08 — rentrer les pots fragiles"
-      }
-    ],
-    "previsions": [
-      {
-        "date": "2026-10-08",
-        "tmin": 11.4,
-        "tmax": 17.8,
-        "precip_mm": 43.4,
-        "vent_kmh": 51.5,
-        "code": 81,
-        "label": "averses",
-        "emoji": "🌧️"
-      },
-      {
-        "date": "2026-10-09",
-        "tmin": 8.8,
-        "tmax": 16.7,
-        "precip_mm": 0.0,
-        "vent_kmh": 31.7,
-        "code": 3,
-        "label": "couvert",
-        "emoji": "☁️"
-      },
-      {
-        "date": "2026-10-10",
-        "tmin": 10.3,
-        "tmax": 20.1,
-        "precip_mm": 0.3,
-        "vent_kmh": 13.0,
-        "code": 61,
-        "label": "pluie faible",
-        "emoji": "🌧️"
-      },
-      {
-        "date": "2026-10-11",
-        "tmin": 11.3,
-        "tmax": 19.0,
-        "precip_mm": 0.0,
-        "vent_kmh": 21.2,
-        "code": 3,
-        "label": "couvert",
-        "emoji": "☁️"
-      },
-      {
-        "date": "2026-10-12",
-        "tmin": 6.9,
-        "tmax": 19.5,
-        "precip_mm": 0.0,
-        "vent_kmh": 21.6,
-        "code": 45,
-        "label": "brouillard",
-        "emoji": "🌫️"
-      }
-    ],
-    "erreur": null
+    "alertes": [],
+    "previsions": [],
+    "erreur": "Erreur météo (Open-Meteo) : 503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=45.233&longitude=5.683&daily=temperature_2m_min%2Ctemperature_2m_max%2Cprecipitation_sum%2Cwind_gusts_10m_max%2Cweather_code&past_days=7&forecast_days=7&timezone=Europe%2FParis"
   },
   "journal": [
+    {
+      "date": "2026-10-06",
+      "plante": "geranium-vivace",
+      "action": "retrait",
+      "note": "mort"
+    },
+    {
+      "date": "2026-10-06",
+      "plante": "petunias",
+      "action": "retrait",
+      "note": "mortes (annuelles)"
+    },
     {
       "date": "2026-10-06",
       "plante": "tomate-brin-muguet",
@@ -39108,94 +40024,6 @@
       }
     },
     {
-      "plante": "petunias",
-      "nom": "Pétunias",
-      "pastilles": {
-        "5": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "6": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "7": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "✂️",
-            "label": "taille"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "8": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "✂️",
-            "label": "taille"
-          },
-          {
-            "emoji": "🌱",
-            "label": "bouturage"
-          }
-        ],
-        "9": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🌱",
-            "label": "bouturage"
-          }
-        ],
-        "3": [
-          {
-            "emoji": "🪴",
-            "label": "rempotage"
-          }
-        ],
-        "4": [
-          {
-            "emoji": "🪴",
-            "label": "rempotage"
-          }
-        ],
-        "10": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ],
-        "11": [
-          {
-            "emoji": "🏠",
-            "label": "rentrée"
-          }
-        ]
-      }
-    },
-    {
       "plante": "clematite-blanche",
       "nom": "Clématite blanche",
       "pastilles": {
@@ -39337,76 +40165,6 @@
           {
             "emoji": "🧺",
             "label": "récolte"
-          }
-        ]
-      }
-    },
-    {
-      "plante": "geranium-vivace",
-      "nom": "Géranium vivace",
-      "pastilles": {
-        "4": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🌱",
-            "label": "bouturage"
-          },
-          {
-            "emoji": "🪴",
-            "label": "rempotage"
-          }
-        ],
-        "5": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "6": [
-          {
-            "emoji": "💧",
-            "label": "engrais"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "7": [
-          {
-            "emoji": "✂️",
-            "label": "taille"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "8": [
-          {
-            "emoji": "✂️",
-            "label": "taille"
-          },
-          {
-            "emoji": "🧺",
-            "label": "récolte"
-          }
-        ],
-        "3": [
-          {
-            "emoji": "🌱",
-            "label": "bouturage"
-          },
-          {
-            "emoji": "🪴",
-            "label": "rempotage"
           }
         ]
       }
@@ -40092,10 +40850,576 @@
           }
         ]
       }
+    },
+    {
+      "plante": "citronnelle",
+      "nom": "Citronnelle",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "geranium-odorant",
+      "nom": "Géranium odorant",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "geranium-fleurs-rouges",
+      "nom": "Géranium à fleurs rouges",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sarracenia-flava",
+      "nom": "Sarracenia flava",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sarracenia-leucophylla",
+      "nom": "Sarracenia leucophylla",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sarracenia-purpurea",
+      "nom": "Sarracenia pourpre",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "misere-pourpre",
+      "nom": "Misère pourpre",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          },
+          {
+            "emoji": "☀️",
+            "label": "sortie"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "lavande-naine",
+      "nom": "Lavande naine",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "8": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "9": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "✂️",
+            "label": "taille"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "🧺",
+            "label": "récolte"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "cactus-cornichon",
+      "nom": "Cactus cornichon",
+      "pastilles": {
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "6": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          }
+        ],
+        "7": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🌱",
+            "label": "bouturage"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
     }
   ],
   "stats": {
-    "total_actions": 5,
+    "total_actions": 7,
     "actions_par_mois": [
       {
         "mois": 1,
@@ -40135,7 +41459,7 @@
       },
       {
         "mois": 10,
-        "total": 5
+        "total": 7
       },
       {
         "mois": 11,
@@ -40147,7 +41471,7 @@
       }
     ],
     "actions_par_type": {
-      "retrait": 5
+      "retrait": 7
     },
     "plantes_oubliees": [],
     "plantes_jamais_soignees": [
@@ -40159,9 +41483,11 @@
       "basilic-thai",
       "basilic-violet",
       "boutures-basilic",
+      "cactus-cornichon",
       "campanule-murs",
       "chevrefeuille-chine",
       "ciboulette",
+      "citronnelle",
       "clematite-blanche",
       "combava",
       "erable-brown-sugar",
@@ -40169,22 +41495,27 @@
       "fraisier-gariguette",
       "fraisier-inconnu",
       "fraisier-mara-des-bois",
-      "geranium-vivace",
+      "geranium-fleurs-rouges",
+      "geranium-odorant",
       "heuchere-foncee",
       "heuchere-verte",
       "hosta",
       "hosta-2",
       "laurier-rouge",
+      "lavande-naine",
       "menthe-gingembre",
       "menthe-marocaine",
       "menthe-orange",
+      "misere-pourpre",
       "monstera",
       "origan-dore",
       "persil",
-      "petunias",
       "piment-cayenne",
       "piment-lila-luzi",
       "piment-pili-pili",
+      "sarracenia-flava",
+      "sarracenia-leucophylla",
+      "sarracenia-purpurea",
       "sauge-ananas",
       "sedum-yellow-cushion",
       "sempervivum-pourpre",
