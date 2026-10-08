@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-07T07:07:04",
-  "date": "2026-10-07",
+  "generated_at": "2026-10-08T07:06:05",
+  "date": "2026-10-08",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -32868,7 +32868,7 @@
       "espece": "Sempervivum sp. (variété à affiner)",
       "categorie": "ornementale",
       "emplacement": "terrasse",
-      "contenant": "pot (avec sedum)",
+      "contenant": "pot (avec sedum Yellow Cushion)",
       "quantite": null,
       "zone": "rambarde-se",
       "piece": "terrasse",
@@ -33583,7 +33583,7 @@
       "espece": "Echinopsis chamaecereus",
       "categorie": "ornementale",
       "emplacement": "terrasse",
-      "contenant": "pot",
+      "contenant": "pot (avec ficoïde et delosperma)",
       "quantite": null,
       "zone": "sous-table",
       "piece": "terrasse",
@@ -33640,6 +33640,343 @@
         "auteur": "Toni Gürke",
         "licence": "Public domain",
         "page": "https://commons.wikimedia.org/wiki/File:Echinopsis_chamaecereus_BlKakteenT168.jpg"
+      }
+    },
+    {
+      "id": "sedum-spathulifolium",
+      "nom": "Sedum spathulifolium 'Hook'",
+      "espece": "Sedum spathulifolium",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec sedums)",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sedum-spathulifolium",
+      "photo": {
+        "url": "photos/plantes/sedum-spathulifolium.jpg",
+        "source": "wikimedia",
+        "auteur": "Walter Siegmund (talk)",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sedum_spathulifolium_5165.JPG"
+      }
+    },
+    {
+      "id": "sedum-dasyphyllum",
+      "nom": "Sedum dasyphyllum",
+      "espece": "Sedum dasyphyllum L.",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec sedums)",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sedum-dasyphyllum",
+      "photo": {
+        "url": "photos/plantes/sedum-dasyphyllum.jpg",
+        "source": "wikimedia",
+        "auteur": "Ghislain118  http://www.fleurs-des-montagnes.net",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sedum_dasyphyllum_(1)_5.JPG"
+      }
+    },
+    {
+      "id": "ficoide-nodiflore",
+      "nom": "Ficoïde nodiflore",
+      "espece": "Mesembryanthemum nodiflorum",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec delosperma et cactus)",
+      "quantite": null,
+      "zone": "sous-table",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "surveiller",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
+        },
+        "hiver": {
+          "statut": "surveiller",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "mesembryanthemum-nodiflorum",
+      "photo": {
+        "url": "photos/plantes/mesembryanthemum-nodiflorum.jpg",
+        "source": "wikimedia",
+        "auteur": "Frank Vincentz",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Mesembryanthemum_nodiflorum_(La_Fajana)_02_ies.jpg"
+      }
+    },
+    {
+      "id": "delosperma-taylorii",
+      "nom": "Delosperma taylorii",
+      "espece": "Delosperma taylorii Schwantes",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec ficoïde et cactus)",
+      "quantite": null,
+      "zone": "sous-table",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "ombre",
+            "max": "plein-soleil",
+            "median": "ombre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "surveiller",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
+        },
+        "hiver": {
+          "statut": "surveiller",
+          "niveau_zone": {
+            "min": "mi-ombre",
+            "max": "soleil-filtre",
+            "median": "soleil-filtre"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": [
+            "etagere-3",
+            "etagere-4"
+          ]
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "delosperma-taylorii",
+      "photo": {
+        "url": "photos/plantes/delosperma-taylorii.jpg",
+        "source": "wikimedia",
+        "auteur": "Agnieszka Kwiecień, Nova",
+        "licence": "CC BY-SA 4.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Delosperma_taylorii_2024-02-29_Graz_02.jpg"
+      }
+    },
+    {
+      "id": "sedum-spathulifolium-2",
+      "nom": "Sedum spathulifolium (2e cultivar)",
+      "espece": "Sedum spathulifolium",
+      "categorie": "ornementale",
+      "emplacement": "terrasse",
+      "contenant": "pot (avec sedums)",
+      "quantite": null,
+      "zone": "rambarde-se",
+      "piece": "terrasse",
+      "placement": {
+        "printemps": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "ete": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "automne": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        },
+        "hiver": {
+          "statut": "ok",
+          "niveau_zone": {
+            "min": "plein-soleil",
+            "max": "plein-soleil",
+            "median": "plein-soleil"
+          },
+          "besoin": "plein-soleil",
+          "mieux_en": []
+        }
+      },
+      "statut": "jamais",
+      "jours_depuis_dernier_soin": null,
+      "derniere_action": null,
+      "dernieres_actions": {},
+      "fiche": "sedum-spathulifolium",
+      "photo": {
+        "url": "photos/plantes/sedum-spathulifolium.jpg",
+        "source": "wikimedia",
+        "auteur": "Walter Siegmund (talk)",
+        "licence": "CC BY-SA 3.0",
+        "page": "https://commons.wikimedia.org/wiki/File:Sedum_spathulifolium_5165.JPG"
       }
     }
   ],
@@ -37622,6 +37959,287 @@
       "confiance": "haute",
       "sources_notes": "Echinopsis chamaecereus (syn. Chamaecereus silvestrii) = cactus cornichon",
       "astuce": "arroser quand le substrat est sec (avril-septembre) ; hiver : repos au sec, ne pas arroser d'octobre à mars"
+    },
+    "sedum-spathulifolium": {
+      "espece": "Sedum spathulifolium",
+      "noms": [
+        "Sedum spathulifolium",
+        "Orpin spatulé"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 12,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique (jusqu'à -20 °C), reste dehors toute l'année même en pot; craint surtout l'excès d'eau en hiver -> garder au sec"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Sedum spathulifolium (orpin spatulé) : couvre-sol succulent très rustique, plein soleil, craint l'excès d'eau",
+      "astuce": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+    },
+    "sedum-dasyphyllum": {
+      "espece": "Sedum dasyphyllum",
+      "noms": [
+        "Sedum dasyphyllum",
+        "Orpin à feuilles épaisses"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -15.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 12,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -12.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "rustique (jusqu'à -15 °C), reste dehors; craint surtout l'excès d'eau en hiver -> garder au sec"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Sedum dasyphyllum (orpin à feuilles épaisses) : petit sédum gris-bleu, couvre-sol rustique, plein soleil, craint l'excès d'eau",
+      "astuce": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+    },
+    "ficoide-nodiflore": {
+      "espece": "Mesembryanthemum nodiflorum",
+      "noms": [
+        "Ficoïde nodiflore",
+        "Mesembryanthemum nodiflorum"
+      ],
+      "type": "annuelle",
+      "rusticite_min_c": 0.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 10,
+        "frequence_hiver_jours": 20,
+        "notes": "succulente : substrat très drainant, laisser sécher entre 2 arrosages, pauvre en eau"
+      },
+      "engrais": [],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 1,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "fin de culture",
+        "seuil_c": 0.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "annuelle peu rustique (craint le gel) : fin de culture à l'automne; se ressème parfois"
+      },
+      "parasites": [],
+      "confiance": "moyenne",
+      "sources_notes": "Mesembryanthemum nodiflorum : ficoïde annuelle méditerranéenne, non rustique (craint le gel), plein soleil et sol pauvre/drainant",
+      "astuce": "succulente : substrat très drainant, laisser sécher entre 2 arrosages, pauvre en eau"
+    },
+    "delosperma-taylorii": {
+      "espece": "Delosperma taylorii",
+      "noms": [
+        "Delosperma taylorii",
+        "Ficoïde rampante",
+        "Pourpier de Taylor"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -12.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 10,
+        "frequence_hiver_jours": 25,
+        "notes": "succulente : substrat très drainant, arroser modérément l'été, quasi sec l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 2,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -10.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "assez rustique (-10/-12 °C) mais craint l'humidité hivernale -> garder au sec; protéger si gel prolongé"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "moyenne",
+      "sources_notes": "Delosperma taylorii : pourpier/ficoïde vivace d'Afrique du Sud, plein soleil, très drainant, rustique ~-10/-12 °C (à confirmer)",
+      "astuce": "succulente : substrat très drainant, arroser modérément l'été, quasi sec l'hiver"
+    },
+    "sedum-spathulifolium-2": {
+      "espece": "Sedum spathulifolium",
+      "noms": [
+        "Sedum spathulifolium",
+        "Orpin spatulé"
+      ],
+      "type": "vivace",
+      "rusticite_min_c": -20.0,
+      "chaleur_max_c": 40.0,
+      "exposition": "plein soleil",
+      "besoin_lumiere": {
+        "intensite": "plein-soleil",
+        "tolerance": "stricte",
+        "saison_critique": []
+      },
+      "arrosage": {
+        "frequence_ete_jours": 12,
+        "frequence_hiver_jours": 30,
+        "notes": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
+      },
+      "engrais": [
+        {
+          "mois": [
+            4,
+            5
+          ],
+          "frequence_jours": 60,
+          "produit": "engrais_granule_universel",
+          "notes": "très peu gourmand : 1 apport léger au printemps suffit"
+        }
+      ],
+      "taille": [],
+      "bouturage": [],
+      "rempotage": {
+        "tous_les_ans": 3,
+        "mois": [
+          3,
+          4
+        ]
+      },
+      "hivernage": {
+        "action": "rien",
+        "seuil_c": -15.0,
+        "mois": [
+          10,
+          11
+        ],
+        "notes": "très rustique (jusqu'à -20 °C), reste dehors toute l'année même en pot; craint surtout l'excès d'eau en hiver -> garder au sec"
+      },
+      "parasites": [
+        {
+          "nom": "cochenilles",
+          "traitement": "savon_noir"
+        }
+      ],
+      "confiance": "haute",
+      "sources_notes": "Sedum spathulifolium (orpin spatulé) : couvre-sol succulent très rustique, plein soleil, craint l'excès d'eau",
+      "astuce": "succulente rustique : laisser le substrat sécher entre 2 arrosages; en pot, arroser peu, quasi rien l'hiver"
     }
   },
   "todo": [
@@ -37668,6 +38286,16 @@
       "action": "hivernage",
       "produit": null,
       "message": "Hivernage — Combava : rentrer avant 8 °C - pas de pièce non chauffée dispo : pièce chauffée lumineuse (fenêtre la plus lumineuse), brumiser le feuillage, arrosage espacé",
+      "urgence": "cette semaine"
+    },
+    {
+      "priority": "semaine",
+      "plant_ids": [
+        "ficoide-nodiflore"
+      ],
+      "action": "hivernage",
+      "produit": null,
+      "message": "Hivernage — Ficoïde nodiflore : fin de culture",
       "urgence": "cette semaine"
     },
     {
@@ -37752,9 +38380,93 @@
     }
   ],
   "meteo": {
-    "alertes": [],
-    "previsions": [],
-    "erreur": "Erreur météo (Open-Meteo) : 503 Server Error: Service Unavailable for url: https://api.open-meteo.com/v1/forecast?latitude=45.233&longitude=5.683&daily=temperature_2m_min%2Ctemperature_2m_max%2Cprecipitation_sum%2Cwind_gusts_10m_max%2Cweather_code&past_days=7&forecast_days=7&timezone=Europe%2FParis"
+    "alertes": [
+      {
+        "type": "rafales",
+        "priority": "info",
+        "rafales_kmh": 51.5,
+        "date": "2026-10-08",
+        "message": "💨 Rafales jusqu'à 51.5 km/h le 2026-10-08 — rentrer les pots fragiles"
+      },
+      {
+        "type": "secheresse",
+        "priority": "info",
+        "jours": 6,
+        "message": "💧 Sécheresse : 6 jours consécutifs sans pluie significative (< 3 mm) — pluie inégale sous la pergola, vérifier l'arrosage"
+      },
+      {
+        "type": "abri_pluie",
+        "priority": "info",
+        "plant_ids": [
+          "cactus-cornichon",
+          "ficoide-nodiflore",
+          "delosperma-taylorii"
+        ],
+        "message": "💧 Plantes abritées de la pluie (sous la table) — arroser à la main, la pluie ne les atteint pas : cactus-cornichon, ficoide-nodiflore, delosperma-taylorii"
+      },
+      {
+        "type": "abri_pluie",
+        "priority": "info",
+        "plant_ids": [
+          "ciboulette",
+          "persil"
+        ],
+        "message": "💧 Plantes peu arrosées par la pluie (étagère, étages bas) — vérifier l'arrosage : ciboulette, persil"
+      }
+    ],
+    "previsions": [
+      {
+        "date": "2026-10-10",
+        "tmin": 11.0,
+        "tmax": 17.8,
+        "precip_mm": 1.53,
+        "vent_kmh": 18.7,
+        "code": 61,
+        "label": "pluie faible",
+        "emoji": "🌧️"
+      },
+      {
+        "date": "2026-10-11",
+        "tmin": 11.9,
+        "tmax": 15.8,
+        "precip_mm": 0.0,
+        "vent_kmh": 20.2,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-12",
+        "tmin": 8.3,
+        "tmax": 18.5,
+        "precip_mm": 0.0,
+        "vent_kmh": 15.1,
+        "code": 2,
+        "label": "partiellement nuageux",
+        "emoji": "⛅"
+      },
+      {
+        "date": "2026-10-13",
+        "tmin": 8.6,
+        "tmax": 21.2,
+        "precip_mm": 0.0,
+        "vent_kmh": 15.8,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-14",
+        "tmin": 13.4,
+        "tmax": 22.0,
+        "precip_mm": 0.0,
+        "vent_kmh": 14.8,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      }
+    ],
+    "erreur": null
   },
   "journal": [
     {
@@ -41416,6 +42128,148 @@
           }
         ]
       }
+    },
+    {
+      "plante": "sedum-spathulifolium",
+      "nom": "Sedum spathulifolium 'Hook'",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sedum-dasyphyllum",
+      "nom": "Sedum dasyphyllum",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "ficoide-nodiflore",
+      "nom": "Ficoïde nodiflore",
+      "pastilles": {
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "4": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "10": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ],
+        "11": [
+          {
+            "emoji": "🏠",
+            "label": "rentrée"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "delosperma-taylorii",
+      "nom": "Delosperma taylorii",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
+    },
+    {
+      "plante": "sedum-spathulifolium-2",
+      "nom": "Sedum spathulifolium (2e cultivar)",
+      "pastilles": {
+        "4": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          },
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ],
+        "5": [
+          {
+            "emoji": "💧",
+            "label": "engrais"
+          }
+        ],
+        "3": [
+          {
+            "emoji": "🪴",
+            "label": "rempotage"
+          }
+        ]
+      }
     }
   ],
   "stats": {
@@ -41490,8 +42344,10 @@
       "citronnelle",
       "clematite-blanche",
       "combava",
+      "delosperma-taylorii",
       "erable-brown-sugar",
       "estragon",
+      "ficoide-nodiflore",
       "fraisier-gariguette",
       "fraisier-inconnu",
       "fraisier-mara-des-bois",
@@ -41517,6 +42373,9 @@
       "sarracenia-leucophylla",
       "sarracenia-purpurea",
       "sauge-ananas",
+      "sedum-dasyphyllum",
+      "sedum-spathulifolium",
+      "sedum-spathulifolium-2",
       "sedum-yellow-cushion",
       "sempervivum-pourpre",
       "thym-citron",
