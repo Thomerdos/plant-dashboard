@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-19T07:05:52",
-  "date": "2026-10-19",
+  "generated_at": "2026-10-20T07:05:58",
+  "date": "2026-10-20",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -38380,85 +38380,57 @@
     }
   ],
   "meteo": {
-    "alertes": [
-      {
-        "type": "secheresse",
-        "priority": "info",
-        "jours": 6,
-        "jours_observes": 6,
-        "jours_prevus": 0,
-        "message": "💧 Sécheresse : 6 jours sans pluie notable (< 3 mm), du 12 au 17 oct. — 6 jours observés, 0 jour prévu. Pluie inégale sous la pergola, vérifier l'arrosage"
-      },
-      {
-        "type": "abri_pluie",
-        "priority": "info",
-        "plant_ids": [
-          "cactus-cornichon",
-          "ficoide-nodiflore",
-          "delosperma-taylorii"
-        ],
-        "message": "💧 Plantes abritées de la pluie (sous la table) — arroser à la main, la pluie ne les atteint pas : cactus-cornichon, ficoide-nodiflore, delosperma-taylorii"
-      },
-      {
-        "type": "abri_pluie",
-        "priority": "info",
-        "plant_ids": [
-          "ciboulette",
-          "persil"
-        ],
-        "message": "💧 Plantes peu arrosées par la pluie (étagère, étages bas) — vérifier l'arrosage : ciboulette, persil"
-      }
-    ],
+    "alertes": [],
     "previsions": [
       {
-        "date": "2026-10-21",
-        "tmin": 8.8,
-        "tmax": 13.8,
-        "precip_mm": 5.6,
-        "vent_kmh": 47.2,
-        "code": 61,
-        "label": "pluie faible",
-        "emoji": "🌧️"
-      },
-      {
         "date": "2026-10-22",
-        "tmin": 6.3,
+        "tmin": 6.4,
         "tmax": 14.8,
         "precip_mm": 0.0,
-        "vent_kmh": 16.9,
+        "vent_kmh": 13.0,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-23",
-        "tmin": 9.0,
-        "tmax": 18.4,
-        "precip_mm": 0.7,
-        "vent_kmh": 29.5,
+        "tmin": 9.3,
+        "tmax": 16.6,
+        "precip_mm": 3.0,
+        "vent_kmh": 30.2,
         "code": 61,
         "label": "pluie faible",
         "emoji": "🌧️"
       },
       {
         "date": "2026-10-24",
-        "tmin": 8.8,
-        "tmax": 15.4,
-        "precip_mm": 0.4,
-        "vent_kmh": 17.3,
-        "code": 3,
-        "label": "couvert",
-        "emoji": "☁️"
+        "tmin": 8.9,
+        "tmax": 12.7,
+        "precip_mm": 4.0,
+        "vent_kmh": 18.4,
+        "code": 80,
+        "label": "averses faibles",
+        "emoji": "🌦️"
       },
       {
         "date": "2026-10-25",
-        "tmin": 12.3,
-        "tmax": 15.5,
-        "precip_mm": 54.8,
-        "vent_kmh": 27.4,
+        "tmin": 9.5,
+        "tmax": 16.2,
+        "precip_mm": 16.7,
+        "vent_kmh": 25.2,
         "code": 63,
         "label": "pluie",
         "emoji": "🌧️"
+      },
+      {
+        "date": "2026-10-26",
+        "tmin": 8.5,
+        "tmax": 12.5,
+        "precip_mm": 0.0,
+        "vent_kmh": 11.2,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
       }
     ],
     "erreur": null
