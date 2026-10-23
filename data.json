@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-22T07:05:23",
-  "date": "2026-10-22",
+  "generated_at": "2026-10-23T08:11:08",
+  "date": "2026-10-23",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -38380,57 +38380,64 @@
     }
   ],
   "meteo": {
-    "alertes": [],
+    "alertes": [
+      {
+        "type": "orage",
+        "priority": "urgent",
+        "date": "2026-10-23",
+        "message": "⛈️ Orage/grêle prévu le 2026-10-23 — protéger les plantes"
+      }
+    ],
     "previsions": [
       {
-        "date": "2026-10-24",
-        "tmin": 8.0,
-        "tmax": 13.3,
-        "precip_mm": 0.0,
-        "vent_kmh": 25.2,
-        "code": 61,
-        "label": "pluie faible",
-        "emoji": "🌧️"
-      },
-      {
         "date": "2026-10-25",
-        "tmin": 10.1,
-        "tmax": 15.1,
-        "precip_mm": 27.4,
-        "vent_kmh": 21.6,
-        "code": 63,
-        "label": "pluie",
-        "emoji": "🌧️"
+        "tmin": 10.0,
+        "tmax": 14.5,
+        "precip_mm": 19.18,
+        "vent_kmh": 19.4,
+        "code": 80,
+        "label": "averses faibles",
+        "emoji": "🌦️"
       },
       {
         "date": "2026-10-26",
-        "tmin": 8.2,
-        "tmax": 14.9,
+        "tmin": 8.9,
+        "tmax": 17.3,
         "precip_mm": 0.0,
-        "vent_kmh": 12.2,
+        "vent_kmh": 17.3,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-27",
-        "tmin": 9.4,
-        "tmax": 23.1,
+        "tmin": 12.2,
+        "tmax": 20.1,
         "precip_mm": 0.0,
-        "vent_kmh": 33.5,
+        "vent_kmh": 23.8,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-28",
-        "tmin": 11.4,
-        "tmax": 16.5,
-        "precip_mm": 3.9,
-        "vent_kmh": 31.0,
-        "code": 61,
-        "label": "pluie faible",
-        "emoji": "🌧️"
+        "tmin": 12.2,
+        "tmax": 18.9,
+        "precip_mm": 0.0,
+        "vent_kmh": 24.8,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-29",
+        "tmin": 11.7,
+        "tmax": 20.3,
+        "precip_mm": 0.0,
+        "vent_kmh": 14.8,
+        "code": 45,
+        "label": "brouillard",
+        "emoji": "🌫️"
       }
     ],
     "erreur": null
