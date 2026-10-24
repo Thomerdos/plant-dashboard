@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-23T08:11:08",
-  "date": "2026-10-23",
+  "generated_at": "2026-10-24T07:05:31",
+  "date": "2026-10-24",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -38380,64 +38380,57 @@
     }
   ],
   "meteo": {
-    "alertes": [
-      {
-        "type": "orage",
-        "priority": "urgent",
-        "date": "2026-10-23",
-        "message": "⛈️ Orage/grêle prévu le 2026-10-23 — protéger les plantes"
-      }
-    ],
+    "alertes": [],
     "previsions": [
       {
-        "date": "2026-10-25",
-        "tmin": 10.0,
-        "tmax": 14.5,
-        "precip_mm": 19.18,
-        "vent_kmh": 19.4,
-        "code": 80,
-        "label": "averses faibles",
-        "emoji": "🌦️"
-      },
-      {
         "date": "2026-10-26",
-        "tmin": 8.9,
-        "tmax": 17.3,
+        "tmin": 9.1,
+        "tmax": 16.8,
         "precip_mm": 0.0,
-        "vent_kmh": 17.3,
+        "vent_kmh": 21.2,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-27",
-        "tmin": 12.2,
-        "tmax": 20.1,
+        "tmin": 11.2,
+        "tmax": 20.4,
         "precip_mm": 0.0,
-        "vent_kmh": 23.8,
+        "vent_kmh": 15.8,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-28",
-        "tmin": 12.2,
-        "tmax": 18.9,
+        "tmin": 10.1,
+        "tmax": 15.6,
         "precip_mm": 0.0,
-        "vent_kmh": 24.8,
+        "vent_kmh": 27.4,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-10-29",
-        "tmin": 11.7,
-        "tmax": 20.3,
+        "tmin": 9.2,
+        "tmax": 19.1,
         "precip_mm": 0.0,
-        "vent_kmh": 14.8,
-        "code": 45,
-        "label": "brouillard",
-        "emoji": "🌫️"
+        "vent_kmh": 15.1,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-10-30",
+        "tmin": 8.1,
+        "tmax": 20.2,
+        "precip_mm": 0.0,
+        "vent_kmh": 13.0,
+        "code": 1,
+        "label": "plutôt dégagé",
+        "emoji": "🌤️"
       }
     ],
     "erreur": null
