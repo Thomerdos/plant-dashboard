@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-27T07:05:25",
-  "date": "2026-10-27",
+  "generated_at": "2026-10-28T07:05:50",
+  "date": "2026-10-28",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -38384,10 +38384,10 @@
       {
         "type": "secheresse",
         "priority": "info",
-        "jours": 10,
-        "jours_observes": 3,
+        "jours": 11,
+        "jours_observes": 4,
         "jours_prevus": 7,
-        "message": "💧 Sécheresse : 10 jours sans pluie notable (< 3 mm), du 24 oct. au 2 nov. — 3 jours observés, 7 jours prévus. Pluie inégale sous la pergola, vérifier l'arrosage"
+        "message": "💧 Sécheresse : 11 jours sans pluie notable (< 3 mm), du 24 oct. au 3 nov. — 4 jours observés, 7 jours prévus. Pluie inégale sous la pergola, vérifier l'arrosage"
       },
       {
         "type": "abri_pluie",
@@ -38411,51 +38411,51 @@
     ],
     "previsions": [
       {
-        "date": "2026-10-29",
-        "tmin": 8.6,
-        "tmax": 15.2,
+        "date": "2026-10-30",
+        "tmin": 8.8,
+        "tmax": 16.0,
         "precip_mm": 0.0,
-        "vent_kmh": 14.0,
+        "vent_kmh": 16.6,
         "code": 45,
         "label": "brouillard",
         "emoji": "🌫️"
       },
       {
-        "date": "2026-10-30",
-        "tmin": 9.0,
-        "tmax": 16.5,
-        "precip_mm": 0.0,
-        "vent_kmh": 17.6,
-        "code": 2,
-        "label": "partiellement nuageux",
-        "emoji": "⛅"
-      },
-      {
         "date": "2026-10-31",
-        "tmin": 7.3,
-        "tmax": 14.3,
+        "tmin": 8.0,
+        "tmax": 13.4,
         "precip_mm": 0.0,
-        "vent_kmh": 15.1,
+        "vent_kmh": 18.4,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-11-01",
-        "tmin": 7.6,
-        "tmax": 10.1,
+        "tmin": 6.4,
+        "tmax": 11.7,
         "precip_mm": 0.0,
-        "vent_kmh": 16.9,
-        "code": 45,
-        "label": "brouillard",
-        "emoji": "🌫️"
+        "vent_kmh": 33.8,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
       },
       {
         "date": "2026-11-02",
-        "tmin": 7.8,
-        "tmax": 10.0,
+        "tmin": 5.1,
+        "tmax": 8.4,
         "precip_mm": 0.0,
-        "vent_kmh": 26.6,
+        "vent_kmh": 23.0,
+        "code": 3,
+        "label": "couvert",
+        "emoji": "☁️"
+      },
+      {
+        "date": "2026-11-03",
+        "tmin": 4.7,
+        "tmax": 9.9,
+        "precip_mm": 0.0,
+        "vent_kmh": 15.5,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
