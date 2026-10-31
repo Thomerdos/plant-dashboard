@@ -1,6 +1,6 @@
 {
-  "generated_at": "2026-10-30T07:05:09",
-  "date": "2026-10-30",
+  "generated_at": "2026-10-31T07:05:21",
+  "date": "2026-10-31",
   "saison": "automne",
   "site": {
     "ville": "Saint-Égrève (38)",
@@ -38384,10 +38384,10 @@
       {
         "type": "secheresse",
         "priority": "info",
-        "jours": 13,
-        "jours_observes": 6,
-        "jours_prevus": 7,
-        "message": "💧 Sécheresse : 13 jours sans pluie notable (< 3 mm), du 24 oct. au 5 nov. — 6 jours observés, 7 jours prévus. Pluie inégale sous la pergola, vérifier l'arrosage"
+        "jours": 11,
+        "jours_observes": 7,
+        "jours_prevus": 4,
+        "message": "💧 Sécheresse : 11 jours sans pluie notable (< 3 mm), du 24 oct. au 3 nov. — 7 jours observés, 4 jours prévus. Pluie inégale sous la pergola, vérifier l'arrosage"
       },
       {
         "type": "abri_pluie",
@@ -38411,51 +38411,51 @@
     ],
     "previsions": [
       {
-        "date": "2026-11-01",
-        "tmin": 5.2,
-        "tmax": 10.7,
-        "precip_mm": 0.0,
-        "vent_kmh": 32.8,
-        "code": 2,
-        "label": "partiellement nuageux",
-        "emoji": "⛅"
-      },
-      {
         "date": "2026-11-02",
-        "tmin": 4.9,
-        "tmax": 8.5,
+        "tmin": 4.5,
+        "tmax": 7.9,
         "precip_mm": 0.0,
-        "vent_kmh": 15.5,
+        "vent_kmh": 19.4,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
         "date": "2026-11-03",
-        "tmin": 4.1,
-        "tmax": 11.0,
-        "precip_mm": 0.3,
-        "vent_kmh": 11.5,
-        "code": 80,
-        "label": "averses faibles",
-        "emoji": "🌦️"
-      },
-      {
-        "date": "2026-11-04",
-        "tmin": 5.8,
-        "tmax": 10.3,
-        "precip_mm": 0.3,
-        "vent_kmh": 10.8,
+        "tmin": 4.3,
+        "tmax": 12.8,
+        "precip_mm": 0.0,
+        "vent_kmh": 13.0,
         "code": 3,
         "label": "couvert",
         "emoji": "☁️"
       },
       {
+        "date": "2026-11-04",
+        "tmin": 7.1,
+        "tmax": 11.7,
+        "precip_mm": 3.08,
+        "vent_kmh": 14.0,
+        "code": 61,
+        "label": "pluie faible",
+        "emoji": "🌧️"
+      },
+      {
         "date": "2026-11-05",
-        "tmin": 7.2,
-        "tmax": 15.0,
-        "precip_mm": 0.8,
-        "vent_kmh": 16.2,
+        "tmin": 8.8,
+        "tmax": 11.4,
+        "precip_mm": 4.17,
+        "vent_kmh": 12.2,
+        "code": 61,
+        "label": "pluie faible",
+        "emoji": "🌧️"
+      },
+      {
+        "date": "2026-11-06",
+        "tmin": 7.5,
+        "tmax": 13.5,
+        "precip_mm": 1.3,
+        "vent_kmh": 14.0,
         "code": 61,
         "label": "pluie faible",
         "emoji": "🌧️"
